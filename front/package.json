@@ -1,0 +1,47 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
+    "build": "cross-env GENERATE_SOURCEMAP=false react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "vk-miniapps-deploy"
+  },
+  "keywords": [],
+  "author": "aakiimov",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^5.2.1",
+    "react-hot-loader": "^4.13.0",
+    "react-scripts": "^3.4.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@vkontakte/icons": "^1.54.0",
+    "@vkontakte/vk-bridge": "^2.3.0",
+    "@vkontakte/vk-connect": "^1.9.1",
+    "@vkontakte/vkui": "^3.13.2",
+    "@vkontakte/vkui-connect": "^1.5.4",
+    "almaz-coin-api": "^1.0.2",
+    "axios": "^0.21.1",
+    "core-js": "^2.6.5",
+    "framer-motion": "^3.9.1",
+    "gh-pages": "^3.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "socket.io-client": "^3.0.3"
+  }
+}

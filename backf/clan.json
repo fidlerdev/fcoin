@@ -1,0 +1,221 @@
+{
+	"70267059": {
+		"name": "Лцлццл",
+		"id": 70267059,
+		"users": {
+			"70267059": {
+				"inBalance": 0,
+				"name": "Всеволод",
+				"photo": "https://sun1-21.userapi.com/s/v1/ig2/NJZhJqlYvrCWiZqziFW9bz4S03dCeGqhD5WY8oD59bxg9vkOEN2eIteoYUnFYZ0ayEEzTaLhnS_n0-u0HdNdfkoP.jpg?size=100x0&quality=96&crop=91,0,674,674&ava=1",
+				"id": 70267059,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": "https://i.ibb.co/PGTp3Z5/mrak.png",
+		"chat": [],
+		"owner": 70267059,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": false
+	},
+	"137501864": {
+		"name": "Клан крутые перцы",
+		"id": 137501864,
+		"users": {
+			"137501864": {
+				"inBalance": 0,
+				"name": "Илья",
+				"photo": "https://sun9-51.userapi.com/s/v1/ig2/2Y5Ue2R_cs5G16M9vXd9a7KnrsEonizLhAyuC7wMKdfY456NiXaxTYWe1KfvcBY_RgWlxR1g2SKOIWrDpcFw7otU.jpg?size=100x0&quality=96&crop=13,129,533,533&ava=1",
+				"id": 137501864,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": null,
+		"chat": [],
+		"owner": 137501864,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": true
+	},
+	"322861790": {
+		"name": "АДМИН ЛОХ",
+		"id": 322861790,
+		"users": {
+			"322861790": {
+				"inBalance": 0,
+				"name": "Даниил",
+				"photo": "https://sun1.dataix-kz-akkol.userapi.com/s/v1/ig2/6RsWNAwnZSMoatF90jscBkUwOmm31YqMoFnhv7WVfqXeJagjC-TOTX00BLqs6f4TV-DR8TByW0t2JjEonGY-vzvI.jpg?size=100x0&quality=96&crop=0,0,200,200&ava=1",
+				"id": 322861790,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": null,
+		"chat": [
+			{
+				"id": "322861790",
+				"text": " ",
+				"name": "Даниил",
+				"photo": "https://sun1.dataix-kz-akkol.userapi.com/s/v1/ig2/6RsWNAwnZSMoatF90jscBkUwOmm31YqMoFnhv7WVfqXeJagjC-TOTX00BLqs6f4TV-DR8TByW0t2JjEonGY-vzvI.jpg?size=100x0&quality=96&crop=0,0,200,200&ava=1",
+				"date": 1614864000563
+			}
+		],
+		"owner": 322861790,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": false
+	},
+	"506864565": {
+		"name": "Хуй",
+		"id": 506864565,
+		"users": {
+			"506864565": {
+				"inBalance": 0,
+				"name": "Дмитрий",
+				"photo": "https://sun2.velcom-by-minsk.userapi.com/s/v1/ig2/iZ9h4t2Ig2Jfmo4adkKEjZLh0pilG_yXym0mMBWDLlBynnunwpMHIwiig6h7p5tKvTtOx7OZvBwl9MVqrRUw8xhs.jpg?size=100x0&quality=96&crop=99,99,797,797&ava=1",
+				"id": 506864565,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": null,
+		"chat": [],
+		"owner": 506864565,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": false
+	},
+	"548313221": {
+		"name": "А",
+		"id": 548313221,
+		"users": {
+			"548313221": {
+				"inBalance": 0,
+				"name": "Вадим",
+				"photo": "https://vk.com/images/camera_100.png",
+				"id": 548313221,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": null,
+		"chat": [],
+		"owner": 548313221,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": false
+	},
+	"587856168": {
+		"name": "Челики топеры",
+		"id": 587856168,
+		"users": {
+			"587856168": {
+				"inBalance": 0,
+				"name": "Даня",
+				"photo": "https://sun5-3.userapi.com/s/v1/ig2/18mYfd5VOCOqYyqwOpct5m1IZZ2WERhhcFz8XldH6lbUlT-2idRGNz23wvSANAfQsUbYKCDwRzXmDA0i01MO7FGj.jpg?size=100x0&quality=96&crop=0,0,599,599&ava=1",
+				"id": 587856168,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": null,
+		"chat": [],
+		"owner": 587856168,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": false
+	},
+	"590452995": {
+		"name": "Двп",
+		"id": 590452995,
+		"users": {
+			"590452995": {
+				"inBalance": 0,
+				"name": "Александр",
+				"photo": "https://sun2-9.userapi.com/s/v1/ig2/TQY8-Mn3mekyyd9qRymkRoedhM6uMD2iV4ThKtrqefc1t4qQednMcesGIn1NKinlPxX1XNcneJElqPxU8lcRdUTn.jpg?size=100x0&quality=96&crop=25,6,393,393&ava=1",
+				"id": 590452995,
+				"isOwner": true,
+				"isAdmin": true
+			}
+		},
+		"win": 0,
+		"click": 0,
+		"clicks": 500000,
+		"banClicks": false,
+		"bitvPobeda": false,
+		"lose": 0,
+		"last": 0,
+		"balance": 0,
+		"photo": "https://i.ibb.co/tmcTp1r/1610900776919.jpg",
+		"chat": [
+			{
+				"id": "590452995",
+				"text": "О",
+				"name": "Александр",
+				"photo": "https://sun2-9.userapi.com/s/v1/ig2/TQY8-Mn3mekyyd9qRymkRoedhM6uMD2iV4ThKtrqefc1t4qQednMcesGIn1NKinlPxX1XNcneJElqPxU8lcRdUTn.jpg?size=100x0&quality=96&crop=25,6,393,393&ava=1",
+				"date": 1614779833398
+			},
+			{
+				"id": "590452995",
+				"text": "Ууууууу",
+				"name": "Александр",
+				"photo": "https://sun2-9.userapi.com/s/v1/ig2/TQY8-Mn3mekyyd9qRymkRoedhM6uMD2iV4ThKtrqefc1t4qQednMcesGIn1NKinlPxX1XNcneJElqPxU8lcRdUTn.jpg?size=100x0&quality=96&crop=25,6,393,393&ava=1",
+				"date": 1614779838932
+			}
+		],
+		"owner": 590452995,
+		"luchiki": 0,
+		"voin": 0,
+		"voina": false
+	}
+}

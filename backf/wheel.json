@@ -1,0 +1,14 @@
+{
+	"time": 1,
+	"users": [],
+	"usersSocketIds": [],
+	"color": "red",
+	"wins": [
+		{
+			"color": "red",
+			"number": 10
+		}
+	],
+	"number": 1,
+	"hash": "Please_wait_to_end_this_round"
+}

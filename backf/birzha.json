@@ -1,0 +1,1997 @@
+{
+	"451559": {
+		"price": 99,
+		"id": 451559,
+		"name": "Аня",
+		"photo": "https://sun9-25.userapi.com/s/v1/ig2/G-7jeQjtD8_8wSO_DGEOTjXua2PRSLE4irRk4mDi4FgHKeMlPmFPnUnFu0dsh5XjOGXBRXd1OD9yZ2UTPP8eZ1zj.jpg?size=100x0&quality=96&crop=1,0,1189,1189&ava=1",
+		"have": 1.0023
+	},
+	"69669411": {
+		"price": 99,
+		"id": 69669411,
+		"name": "Женя",
+		"photo": "https://sun1-14.userapi.com/s/v1/ig2/_nYCGue-W_SQG6-ZamqM7A_YaF7u7lvYp5eXj54ARBs-9WidUko2F6j1jEWT8cOFekuYInaqiyOEQsb9SgBaTSgk.jpg?size=200x0&quality=96&crop=442,550,994,994&ava=1",
+		"have": 0.007900000000000008
+	},
+	"70267059": {
+		"price": 99,
+		"id": 70267059,
+		"name": "Всеволод",
+		"photo": "https://sun1-21.userapi.com/s/v1/ig2/NJZhJqlYvrCWiZqziFW9bz4S03dCeGqhD5WY8oD59bxg9vkOEN2eIteoYUnFYZ0ayEEzTaLhnS_n0-u0HdNdfkoP.jpg?size=100x0&quality=96&crop=91,0,674,674&ava=1",
+		"have": 0
+	},
+	"122676707": {
+		"price": 99,
+		"id": 122676707,
+		"name": "Alexey",
+		"photo": "https://sun9-35.userapi.com/s/v1/if1/BrJgxbMhZpLESFwJ3cIR5qkEmIUkrs9HSKOhW5o13iMs6_DIUQlCk15jr8AIVT-CtcbkNw.jpg?size=100x0&quality=96&crop=747,316,1092,1092&ava=1",
+		"have": 0
+	},
+	"134654012": {
+		"price": 99,
+		"id": 134654012,
+		"name": "Никита",
+		"photo": "https://sun9-61.userapi.com/s/v1/ig2/hiTZdoPFKVKs71YJe9wnE8-lakUPf9KQWJogx0EHGb0OZIzPqA-NAHeAv88TO-Fhe8srWYHZIGo02_VOeTo8TUQp.jpg?size=100x0&quality=96&crop=0,182,716,716&ava=1",
+		"have": 0.0078000000000000074
+	},
+	"137501864": {
+		"price": 99,
+		"id": 137501864,
+		"name": "Илья",
+		"photo": "https://sun9-51.userapi.com/s/v1/ig2/2Y5Ue2R_cs5G16M9vXd9a7KnrsEonizLhAyuC7wMKdfY456NiXaxTYWe1KfvcBY_RgWlxR1g2SKOIWrDpcFw7otU.jpg?size=100x0&quality=96&crop=13,129,533,533&ava=1",
+		"have": 0
+	},
+	"140933159": {
+		"price": 99,
+		"id": 140933159,
+		"name": "Никита",
+		"photo": "https://sun2.ufanet.userapi.com/s/v1/ig2/jKDCGo6GeI1ZP9-TGnSUePsfcBm02UJQqdqCXjg1PROngGiaI86EGJssifwXnjm7LLpOMWSJQ_JWfm2fAGB_J-RN.jpg?size=100x0&quality=96&crop=1231,64,810,810&ava=1",
+		"have": 0
+	},
+	"142987999": {
+		"price": "1",
+		"id": 142987999,
+		"name": "Света",
+		"photo": "https://sun2.43222.userapi.com/s/v1/if1/ywCMlgfvHt-uEDWAfKSXLiGuXkT9PlbDunDw_GXSXj-DDSp-f8Qg2T2Zi1B65qf5ZvxNbvZD.jpg?size=200x0&quality=96&crop=284,285,559,559&ava=1",
+		"have": 669.2853000000014
+	},
+	"148250415": {
+		"price": "0.5",
+		"id": 148250415,
+		"name": "Денис",
+		"photo": "https://sun1-98.userapi.com/s/v1/if1/uR40E55Gs4ug2b7vDOINDT-1oFWQFI6eFU2917i5AMwLt_EaEb11TQIVdV46bzW_k8Op6UXI.jpg?size=100x0&quality=96&crop=0,42,626,626&ava=1",
+		"have": 0
+	},
+	"152993544": {
+		"price": 99,
+		"id": 152993544,
+		"name": "Алик",
+		"photo": "https://sun2.tattelecom-nbc.userapi.com/s/v1/ig2/lATyClsepcjidHCtOoepnmMHWjp9Vj85Ku5mtoVcFFcSsDyM1rJlqNTMt9D9nUmMAnOzp6K8mZcAddzCBvkQ4Cc9.jpg?size=100x0&quality=96&crop=308,178,547,547&ava=1",
+		"have": 0.006000000000000003
+	},
+	"158586845": {
+		"price": 99,
+		"id": 158586845,
+		"name": "Владимир",
+		"photo": "https://sun1-23.userapi.com/s/v1/ig2/iE82YYwWgM04mCOZ_pu_Irz6Ny4oPU9C_ryO1NSQJPKwml_j-aJa_g2R9Lwq8z56eqRcaG5ODUq_X4fiQmYEW2L0.jpg?size=100x0&quality=96&crop=277,65,269,269&ava=1",
+		"have": 704.8242999999932
+	},
+	"166061157": {
+		"price": 99,
+		"id": 166061157,
+		"name": "Данил",
+		"photo": "https://sun9-49.userapi.com/s/v1/if2/siUDjSzIdFmDyX-RncOo035EbymV3UeNEQXtfX2CBbXbrBeI52lqJSGVgCG2g2cgciSKCoGLOXjkvhRE27sR4puh.jpg?size=100x0&quality=96&crop=118,46,343,343&ava=1",
+		"have": 0.016399999999999956
+	},
+	"175586154": {
+		"price": 99,
+		"id": 175586154,
+		"name": "Александр",
+		"photo": "https://sun2.beltelecom-by-minsk.userapi.com/s/v1/if1/wM5cA_547oqTMjB_qFGrEw5JW7rHtMgCvRk-8ctzzcM0xghsvxfDZAxSXky2bqm3f078Aa4r.jpg?size=100x0&quality=96&crop=314,175,751,751&ava=1",
+		"have": 1151.4231999999954
+	},
+	"205302061": {
+		"price": 99,
+		"id": 205302061,
+		"name": "Радмир",
+		"photo": "https://sun1-96.userapi.com/s/v1/ig2/I1iAo7F3ryQQJskZoeSJnzua_F64EKR7RdkG7Q0Zu_ntOopzkhzYDGfBMkQlhU2sDsN4uGGe76cpkLOQNdyYjUi8.jpg?size=100x0&quality=96&crop=0,237,606,606&ava=1",
+		"have": 103201.81409999772
+	},
+	"207539676": {
+		"price": 99,
+		"id": 207539676,
+		"name": "Ян",
+		"photo": "https://sun9-53.userapi.com/s/v1/if1/WeFTrMBGnbYs-s1QNn6wfCwP8xb-5_QvkcRaFPTkVdLqxlYuGb5FKF0hE4QTusCqOcrbFjxr.jpg?size=100x0&quality=96&crop=109,0,382,382&ava=1",
+		"have": 411.01179999999954
+	},
+	"212653548": {
+		"price": 99,
+		"id": 212653548,
+		"name": "Павел",
+		"photo": "https://sun9-74.userapi.com/s/v1/ig2/EXIbjNOBom51NNB8bRAFZLDjI1MOj-9Zl4-f76_WZAJncOqq1DdDSH7QaAeVPaw4q549fSnbxYjSr4RkEcrU4K-y.jpg?size=100x0&quality=96&crop=222,0,663,663&ava=1",
+		"have": 0.05990000000000063
+	},
+	"222630809": {
+		"price": 99,
+		"id": 222630809,
+		"name": "Zeko",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig2/oPYuz6wDcPhhcGygAsZXd_q9GLWA-WSEAYtltb9mVoLgZxXsrtq5xZQMV199o97CzQ15uo7bgg-EoaQ7tW6QuEB0.jpg?size=100x0&quality=96&crop=0,0,539,539&ava=1",
+		"have": 0.004199999999999998
+	},
+	"222856843": {
+		"price": 99,
+		"id": 222856843,
+		"name": "Дима",
+		"photo": "https://sun9-55.userapi.com/s/v1/ig2/jyIVjYUA8CZUikFEifvx17g737tRZEXYGh8b5JhwAqP6U98ZmVPSq8mZvuvN_wsXi-CGTfuntc5PVAhTH0kCTPfc.jpg?size=100x0&quality=96&crop=3,0,1496,1496&ava=1",
+		"have": 0.0006000000000000001
+	},
+	"231079607": {
+		"price": 99,
+		"id": 231079607,
+		"name": "Егор",
+		"photo": "https://sun1-27.userapi.com/s/v1/ig2/poTLnf8LYAL_5rv4ilWGKfiY98UcQgW7yOOIGRWnzI2ief20BYTpTqcQncG9jCx-2UsKxSNH0pb3JueyohSu_sO-.jpg?size=100x0&quality=96&crop=81,28,649,649&ava=1",
+		"have": 104.65810000000035
+	},
+	"242847515": {
+		"price": 99,
+		"id": 242847515,
+		"name": "Денис",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/85fTYDBEtUtjDO4kYrZCpNH5xrIi3pyC6K1wmdCTN6lR6ec_X_P4dzhj8Ae2J3Lv8PhPzV65hvyNEhwyHfjoD2wK.jpg?size=100x0&quality=96&crop=83,96,538,538&ava=1",
+		"have": 0.006800000000000005
+	},
+	"243266080": {
+		"price": "1",
+		"id": 243266080,
+		"name": "Дима",
+		"photo": "https://sun1-86.userapi.com/s/v1/if2/Fs7CAsL7ClNNB7F6J3cYW4xx0ful_uJiRYcL5R_JQmG2mAdWxDnLXARAP3VbdRvN-5CuLEb-TwT6bH8L1Gnqaiue.jpg?size=100x0&quality=96&crop=0,210,539,539&ava=1",
+		"have": 6
+	},
+	"248167257": {
+		"price": 99,
+		"id": 248167257,
+		"name": "Миша",
+		"photo": "https://sun1-88.userapi.com/s/v1/ig1/h9KktOx9GvA32TjXQtlRKtyRDn_jJVzCPvB-MmGl3dZkYmlCRcQRmnynJQWQu7AoiBoW9uSm.jpg?size=100x0&quality=96&crop=0,108,750,750&ava=1",
+		"have": 555.0600000000111
+	},
+	"258969269": {
+		"price": 99,
+		"id": 258969269,
+		"name": "Николай",
+		"photo": "https://sun1-94.userapi.com/s/v1/ig2/mH8cgQ6hUirTbzN8vviw8Esnd1pYhc2cL91D37MMFLWcqgUT67BKcFj6Dy8oMCO4raNlFLcZOqqYrwNe3IFcxbaf.jpg?size=100x0&quality=96&crop=2,39,593,593&ava=1",
+		"have": 0
+	},
+	"262959639": {
+		"price": 99,
+		"id": 262959639,
+		"name": "Егор",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig2/9_iCx3cSis73i4Or3Fo_sCY_u1ysw0-LauHbrON8fAumUlai_RNGoYydDLqOabuZP29-sowOwzJNO-cdBETQkrfD.jpg?size=100x0&quality=96&crop=64,64,512,512&ava=1",
+		"have": 0.22909999999999073
+	},
+	"263017556": {
+		"price": 99,
+		"id": 263017556,
+		"name": "Татьяна",
+		"photo": "https://sun1-14.userapi.com/s/v1/ig1/bcZ00poTzLc0CwpMsKqrZPqCn4zHjbghgONd7ddX0asvNNozJXmQ1aIxQsGFUr0lSSqLGBbq.jpg?size=100x0&quality=96&crop=0,127,678,678&ava=1",
+		"have": 0.002799999999999999
+	},
+	"273171984": {
+		"price": 99,
+		"id": 273171984,
+		"name": "Савелий'не",
+		"photo": "https://sun4-15.userapi.com/s/v1/ig2/wtLPx5UfLAdHG5jwpg3rgkp1dcrU_6gYUPhWPmXt-mFYhtCkURIlLrNAu3gev0qOBDy4hnGZrk_gengQ43zyqj-w.jpg?size=100x0&quality=96&crop=127,0,585,585&ava=1",
+		"have": 3.5988000000005034
+	},
+	"278477388": {
+		"price": 99,
+		"id": 278477388,
+		"name": "Данил'",
+		"photo": "https://sun5-3.userapi.com/s/v1/ig2/y7NgnzJbGeQ9B47MOU3W1QRr6UC6yBdnM2nF8OmoL72kpcG31P1rrGhTc_wzA6O3-Yfssi58ndq0vI5GJIZX0D1m.jpg?size=100x0&quality=96&crop=0,0,320,320&ava=1",
+		"have": 0
+	},
+	"278796465": {
+		"price": 99,
+		"id": 278796465,
+		"name": "Даня",
+		"photo": "https://sun1-87.userapi.com/s/v1/ig2/fG2EVkSCpLYz_3nEujtNi-7JBLNuK06L53J6zi5M_wi5HF_3eDdUsdFqsPxy3iVp6m9VRvFgBXzUZz5dZv8il4GG.jpg?size=100x0&quality=96&crop=0,0,750,750&ava=1",
+		"have": 294.14689999999507
+	},
+	"278997548": {
+		"price": 1,
+		"id": 278997548,
+		"name": "Сергей",
+		"photo": "https://sun1-89.userapi.com/s/v1/ig1/iT85PTrDh5-en0_KyPFK7P-hzjO3KBRzMP61qZ887OhtYWT3Zaqvs31Uk_VGDC2GxyvNOpMK.jpg?size=100x0&quality=96&crop=4,627,984,984&ava=1",
+		"have": 4814.390500000248
+	},
+	"283893857": {
+		"price": 99,
+		"id": 283893857,
+		"name": "Дима",
+		"photo": "https://sun2.dataix-kz-akkol.userapi.com/s/v1/ig2/Qxb2Z1z6rkwijohfSjx28ytrljI3bWJaekyNfaI6AbB9PmHTzpm4qCSwZR78VWiV_VaCDesWBka7Ent0cOxKwJxs.jpg?size=100x0&quality=96&crop=97,97,777,777&ava=1",
+		"have": 0.0031999999999999984
+	},
+	"287779679": {
+		"price": 99,
+		"id": 287779679,
+		"name": "Вова",
+		"photo": "https://sun1-25.userapi.com/s/v1/if2/Yk7-10N3H3NWQQwAnNuFuN4bUTvB33AqEzpPWuy7nQhZog2wKvIOlxt5z-D5pMkNxhHnYnEpJSF8NO6qvocHu_iG.jpg?size=100x0&quality=96&crop=0,176,882,882&ava=1",
+		"have": 489.38420000000036
+	},
+	"290331922": {
+		"price": 99,
+		"id": 290331922,
+		"name": "Алексей",
+		"photo": "https://sun1.beltelecom-by-minsk.userapi.com/s/v1/ig2/9I4qqmDtDpGUFDg8k4MmjnqciDuRQgkEgyky3m4vgC8ZB7SBllGqEcTxKSUVuWsLUqLNyZBtGZgoZ4r5jlBMtV-T.jpg?size=100x0&quality=96&crop=70,57,1125,1125&ava=1",
+		"have": 0.004499999999999999
+	},
+	"291283942": {
+		"price": 99,
+		"id": 291283942,
+		"name": "Илья",
+		"photo": "https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/wFo-RonkN2coAPkuUeDGbqLzRdfBDTXsJpO7ZpeAi8cpucb73yFuTi80hiDR6shjEnxfAJgTS7vmBykaMAXbXMJT.jpg?size=100x0&quality=96&crop=0,0,1036,1036&ava=1",
+		"have": 0.0019000000000000006
+	},
+	"294584605": {
+		"price": 99,
+		"id": 294584605,
+		"name": "Юрий",
+		"photo": "https://sun7-6.userapi.com/s/v1/ig2/1B-oQj2mkZTqzqGCn-4lRvqXAqHxqEU4d8E-V6ZxEAOdXvtpfhhNz6-TXMI6UsOzmOQr2WXOTkMwjSU_q5KGiMzJ.jpg?size=100x0&quality=96&crop=0,0,599,599&ava=1",
+		"have": 0.012299999999999981
+	},
+	"298845865": {
+		"price": 99,
+		"id": 298845865,
+		"name": "Никита",
+		"photo": "https://sun1-93.userapi.com/s/v1/ig2/U_ldl7_IxzX9KPFJoSdlMgxlBHFf2uDnEGPRdEkrkOmfZ4wdIZ6P6bLr8BT_uHweWyBM6y_cXGlZugwy4vufWDc2.jpg?size=100x0&quality=96&crop=90,1,1077,1077&ava=1",
+		"have": 336.3969000000178
+	},
+	"301991494": {
+		"price": 99,
+		"id": 301991494,
+		"name": "Иван",
+		"photo": "https://sun1-99.userapi.com/s/v1/ig2/qA0YJ8orKtV1ayKxVQt7FbLQbtQaZUevTe-0Hddp0_W53_-7u64Ov2jBFRFyDsUb4Y5DmaZ1BVJfGjWnijJ36HpH.jpg?size=100x0&quality=96&crop=0,0,564,564&ava=1",
+		"have": 2255.4126999999908
+	},
+	"304846766": {
+		"price": "1",
+		"id": 304846766,
+		"name": "Максим",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/dFxN1KfP9qFeeYPyjCy1EbU5p4Nrfww7pQGckLudqPchTs29o630ehvddQM5LpMWVw5Di8DnuPMo1ZOvQpowv42d.jpg?size=100x0&quality=96&crop=1,59,809,809&ava=1",
+		"have": 168017.8886998309
+	},
+	"305429096": {
+		"price": 99,
+		"id": 305429096,
+		"name": "Мирослав'аккерман",
+		"photo": "https://sun1.dataix-kz-akkol.userapi.com/s/v1/ig2/LvyWQc44EbnFSOpBoGtCYHzoKwa25eoiFZiQVZdVOMDEizDwdHYnmLwUis5UwmP_TyS4PnvDAJ1b3E6w1CtD52FX.jpg?size=100x0&quality=96&crop=307,0,340,340&ava=1",
+		"have": 0.013499999999999974
+	},
+	"305750312": {
+		"price": 99,
+		"id": 305750312,
+		"name": "Денис",
+		"photo": "https://sun1-18.userapi.com/s/v1/ig2/4-_WJJ9IhNwpMbW417YwSG_Cxc9-W0BJN1NfMdzXUl5eexaSMOJv7LdVK7kqxqhcQVJeOFTqYE4Ynq9smwAm6WB2.jpg?size=100x0&quality=96&crop=41,0,657,657&ava=1",
+		"have": 0
+	},
+	"306478040": {
+		"price": 99,
+		"id": 306478040,
+		"name": "Света",
+		"photo": "https://sun9-13.userapi.com/s/v1/ig2/KhMW5xhjGYF7OZtnaItBdc9HguaJ2zfOtSbj_77Fosl7o3TpjjoR3fY6dL2i69ojtyO4kI1UdiMc43XblNKc2d0I.jpg?size=100x0&quality=96&crop=1,471,650,650&ava=1",
+		"have": 0.014899999999999965
+	},
+	"307598243": {
+		"price": 99,
+		"id": 307598243,
+		"name": "Дмитрий",
+		"photo": "https://sun1-25.userapi.com/s/v1/ig2/vxkkKLyw9S1OJ7IjOQUsqzCGc6afbGRRmCTjTwAlK27WJx0eh-YL3vdwirSvTgRBeVBcAvx9fjax1Sln8kGdt9XF.jpg?size=100x0&quality=96&crop=96,96,768,768&ava=1",
+		"have": 0
+	},
+	"309101313": {
+		"price": 99,
+		"id": 309101313,
+		"name": "Тимофей",
+		"photo": "https://sun1-96.userapi.com/s/v1/ig2/q9Ui1F9PlWwq7prhuYjQwVXNVg3dMxLzBKELv5PqR8cSm7EeAMqZwkPjrhsXE9G8pMvhGvkkQXv8AZUun_E1ZSqe.jpg?size=100x0&quality=96&crop=242,336,1356,1356&ava=1",
+		"have": 309.57259999999326
+	},
+	"312439880": {
+		"price": 99,
+		"id": 312439880,
+		"name": "Илья",
+		"photo": "https://sun1.tele2-nn.userapi.com/s/v1/ig2/jhRszkO_du-nT2m3CHzs8znXlMi5tnFOTXJWqSmuOcXCOgKWi7dBEAWqUvyQHW7Hgef0YDi2EyRUj6LQDTBDwIoi.jpg?size=100x0&quality=96&crop=561,2,1437,1437&ava=1",
+		"have": 0.016399999999999956
+	},
+	"313784873": {
+		"price": 99,
+		"id": 313784873,
+		"name": "Айсель",
+		"photo": "https://sun5-4.userapi.com/s/v1/ig2/8hjpjKQNJfoN8pcYY6j3idnvkOA9ikoqntO8NqMYXDt2QCvuqNpu-NYSgrxTK15P1gu_MV44eHQULD6inm5P7Amg.jpg?size=100x0&quality=96&crop=2,2,1078,1078&ava=1",
+		"have": 0.013900000000000114
+	},
+	"318884482": {
+		"price": 99,
+		"id": 318884482,
+		"name": "Александр",
+		"photo": "https://sun1-91.userapi.com/s/v1/ig2/nLEl2UecXWppiIvfEms-vxuJRT944UEsEb-QMU7a3xji34PhYPRGjyou63Ij8CdUf4C7_ZLj-vIxYYZpu6VUiG33.jpg?size=100x0&quality=96&crop=6,263,1834,1834&ava=1",
+		"have": 0.012199999999999982
+	},
+	"322861790": {
+		"price": 99,
+		"id": 322861790,
+		"name": "Даниил",
+		"photo": "https://sun1.dataix-kz-akkol.userapi.com/s/v1/ig2/6RsWNAwnZSMoatF90jscBkUwOmm31YqMoFnhv7WVfqXeJagjC-TOTX00BLqs6f4TV-DR8TByW0t2JjEonGY-vzvI.jpg?size=100x0&quality=96&crop=0,0,200,200&ava=1",
+		"have": 0.013799999999999972
+	},
+	"325434756": {
+		"price": 99,
+		"id": 325434756,
+		"name": "Карина",
+		"photo": "https://sun4-10.userapi.com/s/v1/ig2/8xGjBPJCONx8luiJ1ASh80WSzaaPn7coVLyneWbgQAotRXYa-mqMdT-F_5eYkm9rUQXqj_ImH8h9VkxGY-BHQu-7.jpg?size=100x0&quality=96&crop=0,28,858,858&ava=1",
+		"have": 0.046900000000000316
+	},
+	"330960860": {
+		"price": 99,
+		"id": 330960860,
+		"name": "Elena",
+		"photo": "https://sun4-16.userapi.com/s/v1/if1/cKzeewMvPorqTsLqMgao99dmMkocf988NhJxZNe2SgvWpxJp-bRtiVRTSnjJGxeR2MBE4jIu.jpg?size=100x0&quality=96&crop=205,0,500,500&ava=1",
+		"have": 0
+	},
+	"336248105": {
+		"price": 99,
+		"id": 336248105,
+		"name": "Никита",
+		"photo": "https://sun9-47.userapi.com/s/v1/if1/fqgT3zBM56HLyCgxIVq1TZY6PcygofMSy2D5v_5CP2Wjd4ybyCa8PtQB57uGF2BoW2H6cgl1.jpg?size=100x0&quality=96&crop=2,1,396,396&ava=1",
+		"have": 0.021399999999999985
+	},
+	"338492087": {
+		"price": 99,
+		"id": 338492087,
+		"name": "Артём",
+		"photo": "https://sun3-11.userapi.com/s/v1/ig2/Fn-fB0ch0NORdeefubeAgu9etj9NiMNjHjF6-LfivxxsEPkWxa9SyDBJDXhxXzll-FAuMqgI-rzrC1UR_hJPuWJS.jpg?size=100x0&quality=96&crop=165,293,1134,1134&ava=1",
+		"have": 350.090499999996
+	},
+	"338799459": {
+		"price": 99,
+		"id": 338799459,
+		"name": "Антон",
+		"photo": "https://sun5-3.userapi.com/s/v1/ig2/_udvvjCj5UhTFCnRX_tvZ_yMOC36Dldte8qJGILZSqL6aAo_0ZHozq3r0em3ZuV7k_l0cB5BNhPuogfzURjUuWxI.jpg?size=100x0&quality=96&crop=331,0,628,628&ava=1",
+		"have": 0.016999999999999953
+	},
+	"339022765": {
+		"price": 99,
+		"id": 339022765,
+		"name": "Дима",
+		"photo": "https://sun1-30.userapi.com/s/v1/ig2/dr0Ns-zbHqyZv-WwKEoiFYUUQmMVcLifOrkuWYY1TDI6Z3eKFvrMc68q82SdLjbkMo5SYcgX57wlsV3otoqpuQfn.jpg?size=100x0&quality=96&crop=5,5,1045,1045&ava=1",
+		"have": 2625.1617000000047
+	},
+	"340001579": {
+		"price": 99,
+		"id": 340001579,
+		"name": "Ян",
+		"photo": "https://sun9-28.userapi.com/s/v1/ig2/-p3IP0_Ii-Wb0fCbd6H3j3Dw-SO9lkgHKgwGzbXq5w43wGhUSCAhk39Luby-IIN2QlTvvoRR9lkal3OUtQIMGdzy.jpg?size=100x0&quality=96&crop=0,0,999,999&ava=1",
+		"have": 0
+	},
+	"340931137": {
+		"price": 99,
+		"id": 340931137,
+		"name": "Солыгин",
+		"photo": "https://sun3.43222.userapi.com/s/v1/ig2/iqKsMeFczxVvBeBLHC0VEFvGVFH87_FJ_GuPMT_5goOKJ_iRoU2LO6wwmxlPaXjHnSNUU31oEIXLnlUEvE7ib5_x.jpg?size=100x0&quality=96&crop=4,585,954,954&ava=1",
+		"have": 1610.6580999999344
+	},
+	"350843110": {
+		"price": 99,
+		"id": 350843110,
+		"name": "Кирилл",
+		"photo": "https://sun4-10.userapi.com/s/v1/ig1/iSx3b1AETcwgsF3ItWsCkFwqNfMfxHiryAyCVAesab7dYl1Xw9VboWmqyhuwTSsAWkC17XHc.jpg?size=100x0&quality=96&crop=7,4,948,948&ava=1",
+		"have": 220.41539999999824
+	},
+	"361893816": {
+		"price": 99,
+		"id": 361893816,
+		"name": "Александр",
+		"photo": "https://sun2-4.userapi.com/s/v1/ig2/DKTEGy16xlrGri7m4qUkHSrtV4VV56kuYycGpRNQ6QABHE1Eor6jAr4aoa36gJeJFnBORJMNJkkRBn70tCMzDTlO.jpg?size=100x0&quality=96&crop=8,0,1011,1011&ava=1",
+		"have": 33892.7600000529
+	},
+	"365059043": {
+		"price": 99,
+		"id": 365059043,
+		"name": "Дмитрий",
+		"photo": "https://sun1.beeline-kz.userapi.com/s/v1/ig2/pL9B0JOdrTaHNg61KNeFQlEiqJfqYf7D0GdcZbDnZ4FNUuchWZA41oIwwbXeusr_4zWvPi_P8QPtz2rG-eost07d.jpg?size=100x0&quality=96&crop=0,0,1280,1280&ava=1",
+		"have": 0
+	},
+	"369052399": {
+		"price": 99,
+		"id": 369052399,
+		"name": "Наталия",
+		"photo": "https://sun1-97.userapi.com/s/v1/ig2/RmHaWvpD3ZdmINvYXo0-Qs2C4t7ZPeEbKjukeuOkSKUHVgnOVZFlgyaf6S7tM8HtVWoMoNEl6o3wuCWu-dFpinJo.jpg?size=100x0&quality=96&crop=1,162,963,963&ava=1",
+		"have": 0.03770000000000004
+	},
+	"369829802": {
+		"price": 99,
+		"id": 369829802,
+		"name": "Никита",
+		"photo": "https://sun7-7.userapi.com/s/v1/ig2/ylHRdWxS-2LCh3GiRdpNOyjc4Uz-fcZc6JB5tDk1JG6H0BgRuJPXO1WS_iy0LtnPXU6YsPbBPs9ObLNXTZF4JeK2.jpg?size=100x0&quality=96&crop=0,0,1058,1058&ava=1",
+		"have": 711.6221999999972
+	},
+	"370578631": {
+		"price": 99,
+		"id": 370578631,
+		"name": "Артём",
+		"photo": "https://sun7-8.userapi.com/s/v1/ig2/SYKFeF_l2SfkPtHx0jxDlBMuR0sLj5kqLR5xeqiSXPX8N9DRBEch5IZHpAqdwei3vHoCt12HvpHUNgaYffVclB9I.jpg?size=100x0&quality=96&crop=29,6,1025,1025&ava=1",
+		"have": 0.013199999999999976
+	},
+	"372996560": {
+		"price": 99,
+		"id": 372996560,
+		"name": "Иван",
+		"photo": "https://sun1-90.userapi.com/s/v1/ig2/X4DpjqRcPlL2fCKSO-1S2k-dyD3jLx1tv-P-nh1DQyx32Adr_J0KojDoiom2kt9n26iRDd_uV3wKAYrdt-ZEMCf6.jpg?size=100x0&quality=96&crop=1,0,808,808&ava=1",
+		"have": 161626.5284999626
+	},
+	"373450408": {
+		"price": 99,
+		"id": 373450408,
+		"name": "Максим",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/TySQACw1aZ66PJDGVToW-VBCCF4TGeHF-q99KbV97byXx4mpjj51v088SQcDPWqbxnR9aBhOLxcdrryqJ692pmDh.jpg?size=100x0&quality=96&crop=0,549,972,972&ava=1",
+		"have": 0.004299999999999998
+	},
+	"377808901": {
+		"price": 99,
+		"id": 377808901,
+		"name": "Владислав",
+		"photo": "https://sun4-17.userapi.com/s/v1/ig2/rW7BheyjbzfTqPva7BA-NtWw0WyqQsYGRYZHaSsbDXhdE6-5PVsPoOs4uFDc0q_C5OWHYkUFRv6IZeRMINp6om-6.jpg?size=100x0&quality=96&crop=96,358,639,639&ava=1",
+		"have": 0
+	},
+	"381598842": {
+		"price": 99,
+		"id": 381598842,
+		"name": "Дмитрий",
+		"photo": "https://sun3-10.userapi.com/s/v1/if1/7-mPfCnoPneAITHwPP5-LjCjU4pJy-D30vfnruEDmJ7UlaTt4CONzE6AZWDFzBaCsDZJ9g.jpg?size=100x0&quality=96&crop=1,146,859,859&ava=1",
+		"have": 0
+	},
+	"387337703": {
+		"price": 99,
+		"id": 387337703,
+		"name": "Владислав",
+		"photo": "https://sun9-39.userapi.com/s/v1/ig2/k7r1ZcqJwi5BqQ-AmaWZR6XecCxmzkSi3UOHO4KIhiCvefmNmgZQq9tDfmGMy4ACNXBDqwR44gSc7xphHeSV0cvC.jpg?size=100x0&quality=96&crop=0,0,631,631&ava=1",
+		"have": 701.0403000000015
+	},
+	"389106692": {
+		"price": 99,
+		"id": 389106692,
+		"name": "Алексей",
+		"photo": "https://sun1-30.userapi.com/s/v1/ig2/lBaJXT0zXWpOZe-NmNcG2W79-DrADoT2eBYQbOgsRRs1fAxiATCGmaeafBA3MeOlflZ3KbCoTK8I3rgsqHI7W9B8.jpg?size=100x0&quality=96&crop=2,0,1077,1077&ava=1",
+		"have": 0.01739999999999995
+	},
+	"390491755": {
+		"price": 99,
+		"id": 390491755,
+		"name": "Тимур",
+		"photo": "https://sun9-18.userapi.com/s/v1/ig2/jKYQD7NAyH72DDfdT9lbVBJphs6_HWpZhRuVo2UIt6ETbo_BGqslZjdUc7zbHwgs3tCQNqkSiECvo4_LgacnBVy2.jpg?size=100x0&quality=96&crop=0,0,479,479&ava=1",
+		"have": 0.0083
+	},
+	"392500833": {
+		"price": 99,
+		"id": 392500833,
+		"name": "Валера",
+		"photo": "https://sun1.tattelecom-nbc.userapi.com/s/v1/ig2/onfW-vdXC67o1CRhoBHN3nXSw6QvQ5_6BICKjcezfOW6j9qqETC85mjug35aSIrj5GbmVaz939KS1CZl9gJlcNpq.jpg?size=100x0&quality=96&crop=114,4,840,840&ava=1",
+		"have": 2809.119799999985
+	},
+	"404386444": {
+		"price": 99,
+		"id": 404386444,
+		"name": "Вася",
+		"photo": "https://sun2-4.userapi.com/s/v1/ig2/SMnii7-XDk9Mc12HkTZQiuxhWmvzhYbKKr5ofxZyTOeQkIubsAeM-A4ICa4IL-3FwEEd-wacDrEtN8-8QQPFxFAf.jpg?size=100x0&quality=96&crop=0,270,748,748&ava=1",
+		"have": 0
+	},
+	"405543006": {
+		"price": 99,
+		"id": 405543006,
+		"name": "Игнат",
+		"photo": "https://sun4-10.userapi.com/s/v1/ig2/du-D-ojDhKxVeTz585TeNGxYcsMuvDRogZ4XlWMfeu_Hs-7DJdOgFWGJqlLFVi2sfwAJExeQiGi3qDrQ7BX0gDSj.jpg?size=100x0&quality=96&crop=248,0,639,639&ava=1",
+		"have": 164.7933999999767
+	},
+	"405712033": {
+		"price": 99,
+		"id": 405712033,
+		"name": "Елена",
+		"photo": "https://sun3-10.userapi.com/s/v1/if1/SmKiVIt4Egz5l0o2retuDP0zZwLXtW_myxtkuMlVStCfI7JIsvvBVAUFDAjrbuYf7e_oykMP.jpg?size=100x0&quality=96&crop=121,158,385,385&ava=1",
+		"have": 0.011199999999999988
+	},
+	"407195528": {
+		"price": 99,
+		"id": 407195528,
+		"name": "Даня",
+		"photo": "https://sun1-25.userapi.com/s/v1/ig2/UOFCimB2PNPGhx7QVD6R4lrXiILUuWkHRefUL9Hszqr9BzNH6uCvANoQTejDl0UV9nOzB3LDOD500v-GDe0RarlW.jpg?size=100x0&quality=96&crop=5,225,1091,1091&ava=1",
+		"have": 0
+	},
+	"408405914": {
+		"price": 99,
+		"id": 408405914,
+		"name": "Антон",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 338.9783000000039
+	},
+	"412747622": {
+		"price": 99,
+		"id": 412747622,
+		"name": "Серёжа",
+		"photo": "https://sun1.tele2-nn.userapi.com/s/v1/ig2/d8CFZMrl8bDnaV8gzqwrs6STgTJ2-2_4nEGGn_xv4_y_CmdqAo3Eg-m3k5A8cbRhHWFAax6sK6aqCGUwrxd6cqyN.jpg?size=100x0&quality=96&crop=0,0,599,599&ava=1",
+		"have": 0
+	},
+	"412866185": {
+		"price": 99,
+		"id": 412866185,
+		"name": "Даня",
+		"photo": "https://sun4-10.userapi.com/s/v1/ig2/EMGeskmMAd0wzWEHuu4jUTXSO46lngfxiJ6HFPZFUxxY-PZfnnZF8Dd5E8ygXoQRtt8VhSXvvfVR4d9nSbsL6YKy.jpg?size=100x0&quality=96&crop=0,0,1080,1080&ava=1",
+		"have": 2097.8214999999714
+	},
+	"414223548": {
+		"price": 99,
+		"id": 414223548,
+		"name": "Никита'",
+		"photo": "https://sun1-94.userapi.com/s/v1/ig2/TJoWLH7geaEUcvgwTJx9IIde7vE0fJ4tXM1iuwhdNE_cT-SOzOswe6eu6AF7hSlSqw7dFeMOPO762Y2ZVw-rOn--.jpg?size=100x0&quality=96&crop=3,0,1121,1121&ava=1",
+		"have": 0.003199999999999998
+	},
+	"415090863": {
+		"price": "1000000",
+		"id": 415090863,
+		"name": "Акимов",
+		"photo": "https://sun9-53.userapi.com/s/v1/if1/govO0OaiGA_CqRO2sI5V3n1JT3X2T9WxpdIficJyhErUqNcgVdc-mC0jnRp_83jleDW1j6EN.jpg?size=100x0&quality=96&crop=149,2,1038,1038&ava=1",
+		"have": 3834.8258999999607
+	},
+	"424688880": {
+		"price": 99,
+		"id": 424688880,
+		"name": "Фёдор",
+		"photo": "https://sun1-94.userapi.com/s/v1/ig2/f8o9P31e8xbmDGG6Og1RXXWZPYeEXbvljBFnEg0L7s9867c9gsK6AykxJY2co83wZgy0iqBpQkYwBglUrR32FAun.jpg?size=100x0&quality=96&crop=185,2,1065,1065&ava=1",
+		"have": 609.0041999999996
+	},
+	"431133200": {
+		"price": 99,
+		"id": 431133200,
+		"name": "Ярослав",
+		"photo": "https://sun2-4.userapi.com/s/v1/ig2/-axqvpK9W69VNQh4Ex03NHJxbgQX366OlJiv_slflffqBKvKVTzsAAwzJed1hlHvqWaETXuE5nyB5TyUGvPRah1q.jpg?size=100x0&quality=96&crop=18,0,575,575&ava=1",
+		"have": 593.3583999999971
+	},
+	"431440834": {
+		"price": 99,
+		"id": 431440834,
+		"name": "Кирилл",
+		"photo": "https://sun1-87.userapi.com/s/v1/ig2/PGlLn_nt7vPBIF35vCJd2vj0u6BKu4-fcl5UIdPIlXyrdm9_WikG-Rc7xyhBy4k8Bv9zK5VCnyH4A3IVihcX28YN.jpg?size=100x0&quality=96&crop=0,0,400,400&ava=1",
+		"have": 0
+	},
+	"431553514": {
+		"price": 99,
+		"id": 431553514,
+		"name": "Дмитрий",
+		"photo": "https://sun3-10.userapi.com/s/v1/if1/bh9fuOyWIVA69vGAKtRidBDdcMgzJadV2lc8G6HOhwyMx6qsZ6XBVkP5n607sgfJ78jUdd_H.jpg?size=100x0&quality=96&crop=2,82,958,958&ava=1",
+		"have": 278.34789999999094
+	},
+	"432664120": {
+		"price": 99,
+		"id": 432664120,
+		"name": "Влад",
+		"photo": "https://sun2-10.userapi.com/s/v1/ig2/Kd-36WkijwVYC-8UYQsow10Vn-sinNNvQG6v-nwB3T5aczAo-cVnanD3pqR0Vhlex0kUqllhfW9YudhuwjbZTwcf.jpg?size=100x0&quality=96&crop=193,0,631,631&ava=1",
+		"have": 0
+	},
+	"433638114": {
+		"price": 99,
+		"id": 433638114,
+		"name": "Никита",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/cFzj-Kw-OA3PWJ73JlBConaVSxeiEfNtxC58Y1-OLlCEJCkH-QIJXoFtYfQQECBeij-ReP02D3y5fjXzuD568iDp.jpg?size=100x0&quality=96&crop=246,0,594,594&ava=1",
+		"have": 357.58179999999345
+	},
+	"434328481": {
+		"price": 99,
+		"id": 434328481,
+		"name": "Аврора",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/wpvYqbcwH6dcdh9l69pxq943jXtRbnBuQlaM7KXZdPMyJ_GIbPz1qq74fuIPKqA4QnU9-flt1xaQxAkLJ-e8H0qj.jpg?size=100x0&quality=96&crop=10,0,702,702&ava=1",
+		"have": 0
+	},
+	"440511506": {
+		"price": 99,
+		"id": 440511506,
+		"name": "Сергей",
+		"photo": "https://sun2.tele2-kz-shymkent.userapi.com/s/v1/ig2/TfSpoYUlnuJjsouf0tItHjqrhVwIWHck3AFd4T6X1yyqABPGNu6N39An4cX3z479MV2NQTXhBRVd9fjVFsiGdmzp.jpg?size=100x0&quality=96&crop=0,0,936,936&ava=1",
+		"have": 0
+	},
+	"441197672": {
+		"price": 99,
+		"id": 441197672,
+		"name": "Никита",
+		"photo": "https://sun1-94.userapi.com/s/v1/ig2/go39KUZ41ZsKGdlyaOiwTKXxFFRN4y5-lp8Pn7ncigbGlAgBB80s4TBirM8HPP14iaqYMflQHJ9likyo4MhY2vTx.jpg?size=100x0&quality=96&crop=92,92,551,551&ava=1",
+		"have": 271.5346999999947
+	},
+	"442004894": {
+		"price": 99,
+		"id": 442004894,
+		"name": "Анна",
+		"photo": "https://sun1-89.userapi.com/s/v1/ig2/vlobxkn05nvnOf5MCllRR5aLW8OQ95q0nL6fTPW8vDI8D5rBDbOmfikPXCwOPyzMUbxwcEV_OUh_G8snmZOsKNN6.jpg?size=100x0&quality=96&crop=7,153,1585,1585&ava=1",
+		"have": 507.01179999999755
+	},
+	"446351489": {
+		"price": 99,
+		"id": 446351489,
+		"name": "Максим",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/If5ShDj049IXwIrzVi4NMoUEpsaotpR08PE5nbbaLSKm09Fb_VM5kyZRwmtSYEdbUrqq9UXeyS1wJexLI1JNYLUe.jpg?size=100x0&quality=96&crop=0,0,498,498&ava=1",
+		"have": 114.00919999999991
+	},
+	"449724989": {
+		"price": 99,
+		"id": 449724989,
+		"name": "Орлик",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig2/d75t-QpwaZbG3TXsOsZi5_nCVp-AAjoZSHRMXMjby33u9-lyDKON54ungTbbZ3vEfUS2pGUnxhofYAqzTfFhSRCK.jpg?size=100x0&quality=96&crop=1,596,993,993&ava=1",
+		"have": 0.004699999999999999
+	},
+	"450196345": {
+		"price": 99,
+		"id": 450196345,
+		"name": "Сергей",
+		"photo": "https://sun1-18.userapi.com/s/v1/ig2/gV6KxjqQ0nEiCF44JttiVdga0QmbBzH-AfA5K4C4U7qR9Q0w5nqmzBtHPreOP3RnQ0ma49OVLCEHMcifxDRk9XNi.jpg?size=100x0&quality=96&crop=2,0,745,745&ava=1",
+		"have": 0.0030999999999999986
+	},
+	"452247710": {
+		"price": 99,
+		"id": 452247710,
+		"name": "Алина",
+		"photo": "https://sun1-99.userapi.com/s/v1/ig2/p2o-eKjw2QsnsxGHqTYtPNkdm25CKhMVL2758yzX_IQOoaOgLCtfDHHATwT46Xd4uNqJ80L9zOONe6ilBXxJc_Wa.jpg?size=100x0&quality=96&crop=1,1,959,959&ava=1",
+		"have": 0.0006000000000000001
+	},
+	"453287754": {
+		"price": 99,
+		"id": 453287754,
+		"name": "Степан",
+		"photo": "https://sun4-10.userapi.com/s/v1/ig2/rmJ6gj9wWO1IgY6wA8qKYcmW3pSFVpxRKL6movOUSqHh0MDwLjpUGehpH-GzO8XSCWmwHs7mwHNUTsGDrInP8wXX.jpg?size=100x0&quality=96&crop=2,127,1275,1275&ava=1",
+		"have": 0.0012000000000000003
+	},
+	"455291487": {
+		"price": 99,
+		"id": 455291487,
+		"name": "Кирилл",
+		"photo": "https://sun1-98.userapi.com/s/v1/ig2/tJvRic-SoVQF10ynUaXGCwcKQk3-eX_aN7O0B1OuMXHD_5Is6_3P6DT4_d16_8SV3d2Ikqh3X5f-gOsBipCY4VI-.jpg?size=100x0&quality=96&crop=142,532,774,774&ava=1",
+		"have": 0.1536999999999999
+	},
+	"455965874": {
+		"price": 99,
+		"id": 455965874,
+		"name": "Андрей",
+		"photo": "https://sun1-19.userapi.com/s/v1/ig2/ZUthffNxtpr_JA9ORs15IrI_3GjTSyZRshlpkaURED3RZFIa3YYoehRZ7mMDv4_vBO4u7pmwl9uDxCLKqSRojZ9t.jpg?size=100x0&quality=96&crop=1,6,1077,1077&ava=1",
+		"have": 0.005300000000000001
+	},
+	"458071937": {
+		"price": 99,
+		"id": 458071937,
+		"name": "Виталий",
+		"photo": "https://sun1-96.userapi.com/s/v1/ig2/zujRYO3fabX5JhjRxxdaEkEDPZIccgLHXr93xPo2hiL2bnc8KmtwydAw1BjloOIuFs1beJ8U5bkKdRvOBAeZbg7q.jpg?size=100x0&quality=96&crop=0,0,2153,2153&ava=1",
+		"have": 713.761199999998
+	},
+	"458525300": {
+		"price": 99,
+		"id": 458525300,
+		"name": "Мария",
+		"photo": "https://sun1-25.userapi.com/s/v1/ig2/4HXez0mS6CDoP5DezwueacVRfbOD1nbWGF1ab48JqmtgVNwNHlt9NF_osvRPX5cll54UG4dTH2KL2skT5StrAeYx.jpg?size=100x0&quality=96&crop=0,279,720,720&ava=1",
+		"have": 0
+	},
+	"459514493": {
+		"price": 99,
+		"id": 459514493,
+		"name": "Айдер",
+		"photo": "https://sun2.43222.userapi.com/s/v1/ig2/eZWMf_ZPGPPsF1YKt6soqzRPV9eB8JPHFYG-90Pn4OsoX23HhUdZKtaWB62jaiarOLuye3VDUeknJkx2Iw-eH3I1.jpg?size=100x0&quality=96&crop=7,7,1421,1421&ava=1",
+		"have": 0.004099999999999998
+	},
+	"463406970": {
+		"price": 99,
+		"id": 463406970,
+		"name": "Никита",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig2/eS9Uy_s72lp2Org2uE5JFaV4aWVgUGfUDYG9W7rjatxsPhUL7wuc2ebx8LCjdlS7DT557VJjZCuBuww9lySiXWTC.jpg?size=100x0&quality=96&crop=0,0,639,639&ava=1",
+		"have": 0.0016000000000000005
+	},
+	"464932485": {
+		"price": "1",
+		"id": 464932485,
+		"name": "Илья'",
+		"photo": "https://sun1-18.userapi.com/s/v1/ig2/thf2ANLPKYZ2QsCIzwA5Dq7vcp7-O2jnXIIr38g1ytsiE59Jw9hjH34KbJ0SkEwtVgM8nYHkOp2JFib-hHO4iAWM.jpg?size=100x0&quality=96&crop=75,75,600,600&ava=1",
+		"have": 5420.4301000003425
+	},
+	"465601558": {
+		"price": 99,
+		"id": 465601558,
+		"name": "Семён",
+		"photo": "https://sun1-96.userapi.com/s/v1/ig2/Okm6XeORaj_kvw9XY9FCWvnuzE_wcUP6xCI8uC1sZ01caM8QwukqY0Kgmf5LWHU4Q9NSOoafJAGHcdKAv6qIaXrU.jpg?size=100x0&quality=96&crop=3,80,711,711&ava=1",
+		"have": 36855.82119999782
+	},
+	"466838230": {
+		"price": 99,
+		"id": 466838230,
+		"name": "Матвей",
+		"photo": "https://sun1.megafon-nn.userapi.com/s/v1/ig1/cqgEssh27VCSonRLAoUYgVe6m6DobOYu1G6PpV1l5GH2tQMjhAfoMdJOlpPs-kyJA7xWgkER.jpg?size=100x0&quality=96&crop=126,126,748,748&ava=1",
+		"have": 0.021799999999999924
+	},
+	"469481935": {
+		"price": 99,
+		"id": 469481935,
+		"name": "Александр",
+		"photo": "https://sun1-83.userapi.com/s/v1/ig2/icuNHthAERFkmouKIxXBcyvZ_sS3yYIidSkEX_pMNCj4bdyivts1faC6QqfLlYPocq53EyPmEL48z3oDyrWC3il0.jpg?size=100x0&quality=96&crop=0,0,690,690&ava=1",
+		"have": 0.011399999999999993
+	},
+	"470423950": {
+		"price": 99,
+		"id": 470423950,
+		"name": "Игорь",
+		"photo": "https://sun9-37.userapi.com/s/v1/ig2/qZ-jsGBo9LhYt-QksyB-PB-zqopcPrFwpiDoqliH1fW9LT2MEr3V3ZfK21jVyD6MJ6kG-rJkza7BjQU8cbs3vmD6.jpg?size=100x0&quality=96&crop=96,0,405,405&ava=1",
+		"have": 0.03339999999999993
+	},
+	"472160157": {
+		"price": 99,
+		"id": 472160157,
+		"name": "Николай",
+		"photo": "https://sun1.tele2-nn.userapi.com/s/v1/if1/tVqk-xNsB_DpMOV1R3Q0BSPSbEQ7qe4jarIGqn7gyU5jWrkFQK9abQodRkqr-E2ZevzfXBCd.jpg?size=100x0&quality=96&crop=1,1,479,479&ava=1",
+		"have": 825.5254999999931
+	},
+	"476681054": {
+		"price": 99,
+		"id": 476681054,
+		"name": "Азик",
+		"photo": "https://sun1-24.userapi.com/s/v1/ig2/jM_IxB62QnM-WWUC6BJx5ULD029bwa3yHSNBVGxgTsyGSfeJfdF9IaKeAxMTR3A1LB6sbG7XgnRBoj_eVrheGsX1.jpg?size=100x0&quality=96&crop=1,271,1615,1615&ava=1",
+		"have": 9.02149999999999
+	},
+	"477357493": {
+		"price": 99,
+		"id": 477357493,
+		"name": "Максим",
+		"photo": "https://sun1-93.userapi.com/s/v1/ig2/AOBqMUR31Dtnx-rL-aXACQdhWpChAAwp-iRYuigzWQ01J8a6KBOTkmYK8ID948awVS7-0UjuWS0FUl4YBe23Q_Ya.jpg?size=100x0&quality=96&crop=162,162,1296,1296&ava=1",
+		"have": 521.2464000000004
+	},
+	"480235384": {
+		"price": 99,
+		"id": 480235384,
+		"name": "Даниил",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/4vH0f0YyL-4izsL2wAyiaBR2FfC-DeehKYrN29MmqXNFEfSSnLuh44_Fv5RAe01B3TKyY62bfM59jDmWNPtl17E3.jpg?size=100x0&quality=96&crop=0,540,1620,1620&ava=1",
+		"have": 0.01769999999999995
+	},
+	"482107640": {
+		"price": 99,
+		"id": 482107640,
+		"name": "Семён",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/IM3_jxO0EWzRkRdHqxEWeluMchfWJLBCFKWAeudAO9CjVX8wwkgDb_PjjSba1n5WWMJVHlpHSVYq1oZ0XpyVRJBB.jpg?size=100x0&quality=96&crop=101,5,979,979&ava=1",
+		"have": 0.0038999999999999972
+	},
+	"483001306": {
+		"price": 99,
+		"id": 483001306,
+		"name": "Александр",
+		"photo": "https://sun1-84.userapi.com/s/v1/ig2/ySCefg2Yqbjg5tBhcaMQkhs6pAYYMlWFfRTk_Ym4WI4z3tWi91bPXBuJgrtuMM3WjvAMbHgLPYjjGbd2qx9ACAc6.jpg?size=100x0&quality=96&crop=20,0,277,277&ava=1",
+		"have": 0
+	},
+	"483212695": {
+		"price": 99,
+		"id": 483212695,
+		"name": "Андрей",
+		"photo": "https://sun1-85.userapi.com/s/v1/ig2/C0EWPrh0T63gHJwGdklzzFuV6XBIKFFISWZBhnQIRvD4OvWYG6oAjY-xnoraMDBmw2fbmBrFeqUVpyGmlY7WQ2I2.jpg?size=100x0&quality=96&crop=1,272,1617,1617&ava=1",
+		"have": 0.0032999999999999982
+	},
+	"483427767": {
+		"price": 99,
+		"id": 483427767,
+		"name": "Олег",
+		"photo": "https://sun1.tele2-nn.userapi.com/s/v1/ig2/Y5FLyJbrmj4i__0sr2MOJezNn_ylwYXdXeL5h6yMZDDcKRBiVK_HsnaiD0Kzl3FmG6csREtlO2jW-Vchvsa8KIoD.jpg?size=100x0&quality=96&crop=0,20,796,796&ava=1",
+		"have": 10444.817999999923
+	},
+	"484002300": {
+		"price": 99,
+		"id": 484002300,
+		"name": "Даниил",
+		"photo": "https://sun1-91.userapi.com/s/v1/if1/8Y-xviT8p9OVPWU2Vv2D_b3xXkjoziQbphlpv-JP7iq35_6G51JR1mY_CPLDmi7ljlW4RPpz.jpg?size=100x0&quality=96&crop=7,168,1601,1601&ava=1",
+		"have": 0
+	},
+	"484983417": {
+		"price": 99,
+		"id": 484983417,
+		"name": "Егор",
+		"photo": "https://sun3-10.userapi.com/s/v1/if1/v-C9UFDO93yJT18DaoBUgoKpJ3ydOmJf7_vZWfVgxrtvOkev_qn6LdmesttCTDRkBtN3w9Mw.jpg?size=100x0&quality=96&crop=0,374,1215,1215&ava=1",
+		"have": 0.002899999999999999
+	},
+	"485545955": {
+		"price": 99,
+		"id": 485545955,
+		"name": "Саша",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 0
+	},
+	"485788372": {
+		"price": 99,
+		"id": 485788372,
+		"name": "Коля",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 0
+	},
+	"486620274": {
+		"price": 99,
+		"id": 486620274,
+		"name": "Andrey",
+		"photo": "https://sun1.sibirix.userapi.com/s/v1/ig2/YAwJBuo2QYB0EYvy0eF8sFbWwU9ZMA4UN5uXPfIHCfpWXJfr7KEQURN3mAuLzfNMjTXBiI7kXz2uXR1tAc5Snv7B.jpg?size=100x0&quality=96&crop=0,128,511,511&ava=1",
+		"have": 0.01769999999999995
+	},
+	"486819220": {
+		"price": 99,
+		"id": 486819220,
+		"name": "Артём",
+		"photo": "https://sun1-21.userapi.com/s/v1/if1/HGdu1qFh2LsOH5hf_dCx8JLPXDVEElTKALGY2y1ZW6Nkb_J8dliB3Qur3fZchouQtz4tE-cj.jpg?size=100x0&quality=96&crop=270,0,1581,1581&ava=1",
+		"have": 0.0008000000000000001
+	},
+	"488473566": {
+		"price": 99,
+		"id": 488473566,
+		"name": "Кирилл",
+		"photo": "https://sun7-6.userapi.com/s/v1/ig2/pOsNrQwg1rPXIb1_8rELV2QIWUmYZWyuZL4w6NBsY9hVseeEG0X54uxovfR0ID3_P1V3cVh-h0kBU5XmhheEPPdj.jpg?size=100x0&quality=96&crop=9,1,1071,1071&ava=1",
+		"have": 0.0027999999999999974
+	},
+	"490389177": {
+		"price": 99,
+		"id": 490389177,
+		"name": "Артём",
+		"photo": "https://sun4-11.userapi.com/s/v1/ig2/t00aA3JtNp9VUFvD78i2Zg1kRkt2raHCCpoyAH5931P1qRLrG0CW_6s0v1bA4YzV3vVXojxExBOMZf9MXGZlZ9AA.jpg?size=100x0&quality=96&crop=2,285,1617,1617&ava=1",
+		"have": 0.0024
+	},
+	"492675506": {
+		"price": 99,
+		"id": 492675506,
+		"name": "Владислав",
+		"photo": "https://sun9-45.userapi.com/s/v1/ig2/fYHHAWeALoljGTGSnG-zKwApvnNNKSaJjH1MScWi6Vq6wXryNFfCYhGZwpHuE_V0sQys0KLXQP74UAVekOUrxSEu.jpg?size=100x0&quality=96&crop=0,255,658,658&ava=1",
+		"have": 6263.250799999827
+	},
+	"492755150": {
+		"price": 99,
+		"id": 492755150,
+		"name": "Артём",
+		"photo": "https://sun1-23.userapi.com/s/v1/ig2/6paTRH9PAGH6uaeyBBDC8KHMS2roID2JvzA0F6K_pgYk9C9lS0ciw_c0q7vpt5GlASDOvEjkIFdp3NSE3F7N7C_I.jpg?size=100x0&quality=96&crop=0,86,324,324&ava=1",
+		"have": 2261.1237999999935
+	},
+	"494254860": {
+		"price": 99,
+		"id": 494254860,
+		"name": "Данил",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/UZr5NSsI8KLpApOhTz95ceUoELhUsrt0uj2-FuSH3ijhfqNys7bUoAjmnHydRoAboVwvX67qzLqroJxxhzj2SG9p.jpg?size=100x0&quality=96&crop=119,0,1077,1077&ava=1",
+		"have": 0
+	},
+	"502261175": {
+		"price": "100",
+		"id": 502261175,
+		"name": "Dj",
+		"photo": "https://sun3-10.userapi.com/s/v1/ig2/BxU_oHYKg4OYI8seLW-DB9SDsDsKa9hOp9S6EohjCBegPDi8t6t3J39s0p9IDyLTIpnMfn_jhu6_IT5ZCoj2XVkY.jpg?size=100x0&quality=96&crop=99,1,324,324&ava=1",
+		"have": 0.004
+	},
+	"506864565": {
+		"price": "099999999999999999999999999999999999999999999999999999999999999",
+		"id": 506864565,
+		"name": "Дмитрий",
+		"photo": "https://sun2.velcom-by-minsk.userapi.com/s/v1/ig2/iZ9h4t2Ig2Jfmo4adkKEjZLh0pilG_yXym0mMBWDLlBynnunwpMHIwiig6h7p5tKvTtOx7OZvBwl9MVqrRUw8xhs.jpg?size=100x0&quality=96&crop=99,99,797,797&ava=1",
+		"have": 15488439.670326876
+	},
+	"508225483": {
+		"price": 99,
+		"id": 508225483,
+		"name": "Даня",
+		"photo": "https://sun1.megafon-nn.userapi.com/s/v1/ig2/DbmLKZFZNLywiZPyqh7CJqY45XkFSQPsrc4blGDsksmtZhNrMWCakLrau7JCqytDvLJXhGhEoJVLDKZnjbUzNKcE.jpg?size=100x0&quality=96&crop=0,0,799,799&ava=1",
+		"have": 6140.594700000036
+	},
+	"511190978": {
+		"price": 99,
+		"id": 511190978,
+		"name": "Артём",
+		"photo": "https://sun1-16.userapi.com/s/v1/ig2/KuCNh-66-VyST3ub0r6xIsfZw5zIlF8AGBT8o_DfisVO6yruWnXhe1tklea2oWR0Nx9rGrhbV5SyKMNs1O7qt-TX.jpg?size=100x0&quality=96&crop=4,4,1596,1596&ava=1",
+		"have": 0
+	},
+	"512891745": {
+		"price": 99,
+		"id": 512891745,
+		"name": "Макс",
+		"photo": "https://sun9-53.userapi.com/s/v1/if1/013fHRfbo-NtQvQFTG_IlFQVKK2khE1-t1BQj6YEgSKfVKtR_1a366L7qUsL1WxGsAt46Lgx.jpg?size=100x0&quality=96&crop=21,0,427,427&ava=1",
+		"have": 0.0018000000000000006
+	},
+	"515345656": {
+		"price": 99,
+		"id": 515345656,
+		"name": "Андрей",
+		"photo": "https://sun4-12.userapi.com/s/v1/ig2/aQJqER9zmFvZB4A18ZCbqhhrusUZZrHhXGMyQIDaWZrxhMKj4xNJdrM3D9l8jRfbwfWtqcjpGp6A76YCJXbk3id8.jpg?size=100x0&quality=96&crop=8,1,1063,1063&ava=1",
+		"have": 548.8553000000003
+	},
+	"516361009": {
+		"price": 99,
+		"id": 516361009,
+		"name": "Андрей",
+		"photo": "https://sun7-8.userapi.com/s/v1/ig2/mCKfFzOQYl-h9uS9L9qTZJD24hf8WFbsgpeNAkm14_-jkXOoYZyZq_BTFy9_K4rWa_iqsSfau7QTpYF1pdJQ4Hqk.jpg?size=100x0&quality=96&crop=0,399,718,718&ava=1",
+		"have": 4721.26670000003
+	},
+	"517476239": {
+		"price": 99,
+		"id": 517476239,
+		"name": "Артём",
+		"photo": "https://sun1-92.userapi.com/s/v1/ig2/ZT1eX-N5FRzfEEdwa_ku1cf0urR1E_m4CRqtgIsElmdASaJDamnr6K5mL3rXoeusrWj-EAQhegPSbt6QY70WtCMR.jpg?size=100x0&quality=96&crop=230,0,718,718&ava=1",
+		"have": 532.925199999998
+	},
+	"518378010": {
+		"price": 99,
+		"id": 518378010,
+		"name": "Никита",
+		"photo": "https://sun1-94.userapi.com/s/v1/ig2/z7s7vwZ20tawAoDy9w7WGhlJTmKp0PSenw3LcO56wQWMswhWKX7c5fIJ6yER9XatyHpstUaBfesQJ5IioW8Bq_7k.jpg?size=100x0&quality=96&crop=1,408,898,898&ava=1",
+		"have": 0.0043999999999999985
+	},
+	"518993466": {
+		"price": 99,
+		"id": 518993466,
+		"name": "Миша",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/Iov5GOL5H9s9SpKWRWD-htfnyrhOwLw8BfhW0XXprJg1A1Uo9PuSAgOzQwnponTBwlpuZQx5UUUq2UicQQvukNkH.jpg?size=100x0&quality=96&crop=21,20,459,459&ava=1",
+		"have": 0.0051
+	},
+	"519212600": {
+		"price": 99,
+		"id": 519212600,
+		"name": "Дима",
+		"photo": "https://sun1-85.userapi.com/s/v1/ig2/KXSHAQV_XAP3f3Csap8gCTq_jjpvzWm32WnbqG-_jbjzI_I--G61z5U4VJWsBFOBs5e73He_WOLAadUHOaZJgQrM.jpg?size=100x0&quality=96&crop=2,273,1615,1615&ava=1",
+		"have": 2562.1416999999915
+	},
+	"519776478": {
+		"price": 99,
+		"id": 519776478,
+		"name": "Анна",
+		"photo": "https://sun1-22.userapi.com/s/v1/ig2/fFuDgTekPU99crVdR9SG396OmH7VZgLOWPyvw_6I84ovZcX-P6TJKTZSZR3h-3vWj6xcwHQsuhiUGLryppSfJ4sV.jpg?size=100x0&quality=96&crop=2,225,512,512&ava=1",
+		"have": 6114.234899999913
+	},
+	"520711301": {
+		"price": 99,
+		"id": 520711301,
+		"name": "Никита",
+		"photo": "https://sun2-3.userapi.com/s/v1/ig2/9KYdscxE3JToAFrmlJ2hiSmyVC4Qeb_BsqUakjEiA0argb-nAPJ_7TVumR-vAlhbjJpyS05rRMy4K6cxq4jsvuXb.jpg?size=100x0&quality=96&crop=43,57,965,965&ava=1",
+		"have": 0.007400000000000006
+	},
+	"521577793": {
+		"price": 99,
+		"id": 521577793,
+		"name": "Александр",
+		"photo": "https://sun1-84.userapi.com/s/v1/ig2/IoGFMXMOPlKGXaQAzi08z87oSWyKXlI0fXcGLYuMmW3XbEv0MSxAJHVn8ffsIFH3wlOOeiVbEUftoqhJ7---h6WC.jpg?size=100x0&quality=96&crop=230,0,646,646&ava=1",
+		"have": 0.02879999999999988
+	},
+	"522570303": {
+		"price": 99,
+		"id": 522570303,
+		"name": "Роман",
+		"photo": "https://sun9-25.userapi.com/s/v1/ig2/Ot5QPATber_NHzcs6y9XToun_Q_rKRFfpqdIwARQemR2za5_JMDn4DxKWekgNaIweS5HzES-zZNeSDKHHcGNtzeQ.jpg?size=100x0&quality=96&crop=5,0,631,631&ava=1",
+		"have": 0.020499999999999928
+	},
+	"523131846": {
+		"price": "1",
+		"id": 523131846,
+		"name": "Матвей'",
+		"photo": "https://sun1-86.userapi.com/s/v1/ig2/Tt_zREwIBmYnL8dxQYKZcB3GVcCuRfIMxp_eKfwoGdxjeNYmfqeuyUM6PXhM578_bZ7zs220_fjNXyoRsLsqzd3E.jpg?size=100x0&quality=96&crop=128,83,568,568&ava=1",
+		"have": 108.09439999999991
+	},
+	"524558505": {
+		"price": 99,
+		"id": 524558505,
+		"name": "Евгений",
+		"photo": "https://sun1-47.userapi.com/s/v1/ig2/g28mmdfpcRi3dboiXGjZZqNrGaGpURMYh3B_5EAE5WdD8PXAH3kQefc_CH-AYx6v0VGr3R-rvR56HY9QJQivFDCT.jpg?size=100x0&quality=96&crop=2,13,974,974&ava=1",
+		"have": 0
+	},
+	"525573115": {
+		"price": 99,
+		"id": 525573115,
+		"name": "Кирилл",
+		"photo": "https://sun1-83.userapi.com/s/v1/ig1/q7TwmXJZVE7as5ndZ024xl1GzwJCIVxuafeq4LIs-jglBwAdVN6ixpoUVQI5E4Cl4DUpUuxm.jpg?size=100x0&quality=96&crop=0,248,640,640&ava=1",
+		"have": 0
+	},
+	"525797120": {
+		"price": 99,
+		"id": 525797120,
+		"name": "Егор",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 0.0031999999999999984
+	},
+	"527153265": {
+		"price": 99,
+		"id": 527153265,
+		"name": "Дмитрий",
+		"photo": "https://sun1.beltelecom-by-minsk.userapi.com/s/v1/ig2/pwAvPxQtsy1HDIJ9FqR0v9Lj5opJtfT3Xm0FaR4VFv14uBhbZTA_mKeWK5_pOugGzb82hk5Nq6hA2mvjrnlJ6NcB.jpg?size=100x0&quality=96&crop=39,0,538,538&ava=1",
+		"have": 0
+	},
+	"531903633": {
+		"price": 99,
+		"id": 531903633,
+		"name": "Sayabek",
+		"photo": "https://sun2.beeline-kz.userapi.com/s/v1/ig2/VO2XWD_Epxz4Orc2aWUrwI_nVlTBJFQZFxafuzN-yCEPCKKPj456AZA7cNM4ZOdJxQK_qbrqzUcG0AX57itf74Am.jpg?size=100x0&quality=96&crop=1,1,1297,1297&ava=1",
+		"have": 205.43550000000513
+	},
+	"532252551": {
+		"price": "1",
+		"id": 532252551,
+		"name": "Лев",
+		"photo": "https://sun7-9.userapi.com/s/v1/ig2/O3fKmqlM1pP87EzJInXrzXhBoaNbdr73zNH_F6CBUe5tOTmzVljatingIBxljGGygQ3Z90xjNc4bfkNfKt1-LW_k.jpg?size=100x0&quality=96&crop=2,2,1531,1531&ava=1",
+		"have": 1126.724300000475
+	},
+	"533587558": {
+		"price": 99,
+		"id": 533587558,
+		"name": "Михаил",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/Q3soqDFXWBKzTHSHsc0pHqkBn5gxaGzRQErMbM3ACxCGuKymQqPlDNo2GY8mq0nU1lK-eRSXn9mqZ45cRLVAcfGO.jpg?size=100x0&quality=96&crop=0,0,719,719&ava=1",
+		"have": 0.015099999999999964
+	},
+	"534232507": {
+		"price": 99,
+		"id": 534232507,
+		"name": "Мохнев",
+		"photo": "https://sun7-7.userapi.com/s/v1/ig1/em0tywtbybuumal6xHqsUitYJY_tf6p2_U79v_Ya1odb1XKxL24jjgumM598d8jQkIV96BiG.jpg?size=100x0&quality=96&crop=0,235,1536,1536&ava=1",
+		"have": 0.005400000000000001
+	},
+	"536601177": {
+		"price": 99,
+		"id": 536601177,
+		"name": "Егор",
+		"photo": "https://sun1.tele2-nn.userapi.com/s/v1/ig2/Ev9w01E2zmmJah6wZT-Hf9HfCUeTT_FMUU_npq--4OKTTJIXS0a34u687ZG9hasS0siFN4CExc5ejpePdPPcz8Qo.jpg?size=100x0&quality=96&crop=0,223,904,904&ava=1",
+		"have": 583.830199997938
+	},
+	"538463970": {
+		"price": 99,
+		"id": 538463970,
+		"name": "Лёха",
+		"photo": "https://sun4-11.userapi.com/s/v1/if1/d_ELGGglxwc7YQHztbAODkMkDHGCz2zK5Wt1c2jpZudahvqYrlBZz4IVhgztRKaSMxVAV-p9.jpg?size=100x0&quality=96&crop=0,0,319,319&ava=1",
+		"have": 1.3054999999999999
+	},
+	"539036418": {
+		"price": 99,
+		"id": 539036418,
+		"name": "Дима",
+		"photo": "https://sun1.velcom-by-minsk.userapi.com/s/v1/ig2/hKY4pRXXPsN7_gjCgSLIM6fFsNgPiYS3YJve9hxFpFoiyOqWTLJBZz88mWWF0kIdDzDoZaB5XMhGnmKO-YPt3xBX.jpg?size=100x0&quality=96&crop=586,0,1078,1078&ava=1",
+		"have": 0
+	},
+	"539067313": {
+		"price": 99,
+		"id": 539067313,
+		"name": "Артём",
+		"photo": "https://sun9-71.userapi.com/s/v1/ig2/RoiRYPbNKK34TnJ7aZWfPC3ODyVKhKtnUXPe1-JXDcxh8YMpvZIHoShbmPAfxxCcKpbormdAxopYHydqGtg2IU3P.jpg?size=100x0&quality=96&crop=0,235,1440,1440&ava=1",
+		"have": 0.021199999999999927
+	},
+	"540910856": {
+		"price": 99,
+		"id": 540910856,
+		"name": "Nalyne",
+		"photo": "https://sun1-88.userapi.com/s/v1/ig2/CTs3TOFzhaiPdqopxj6Rff6GwiJg9IWXNLLCIHJhQ2zOmg9-tzUZU4pzNdbKEv4fHEkj1tCBKWN624iUZ35h-ZbC.jpg?size=100x0&quality=96&crop=0,0,719,719&ava=1",
+		"have": 0.0026999999999999993
+	},
+	"541544124": {
+		"price": 99,
+		"id": 541544124,
+		"name": "Шамиль",
+		"photo": "https://sun7-9.userapi.com/s/v1/ig2/YlSUPSoNd4dg8BP_MctfpVj8P9K-57e5OAtTtO9SDI-nmhDL9_c8K9ORCJEYGt730EWIwQJjnhG9NmDTCh4vkwdc.jpg?size=100x0&quality=96&crop=0,0,899,899&ava=1",
+		"have": 12967.377199998076
+	},
+	"544016751": {
+		"price": 99,
+		"id": 544016751,
+		"name": "Дмитрий",
+		"photo": "https://sun1-99.userapi.com/s/v1/ig2/HFx6J_yec7wzTYa2yoZlCCXW3J6emQQGr02V6ZHU9G73WLTDDBG_7B0WHJPJeQMoDCwj5AD_8sVM0KCeb3K_KInt.jpg?size=100x0&quality=96&crop=108,108,864,864&ava=1",
+		"have": 26311.729100000615
+	},
+	"544066798": {
+		"price": 99,
+		"id": 544066798,
+		"name": "Тимур",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/CYYcF8oowyN6i4ZGXKUQlTUI7G_iBYz-rchk3Gut0CADxjU6cIAbn0YWAXe8_ETW54MKwjrUCqsdMSmLdu-N9iL6.jpg?size=100x0&quality=96&crop=2,273,1615,1615&ava=1",
+		"have": 0
+	},
+	"545382016": {
+		"price": 99,
+		"id": 545382016,
+		"name": "Наталья",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/7WSIMow55qaDJlOnjsxn5hoqyqW5yWSQYRZbqxrFW8OsihWt7SKu6nUti8lZck_gBF_eAOd5uv5pOuVnuXGVxP1j.jpg?size=100x0&quality=96&crop=2,168,914,914&ava=1",
+		"have": 0.03559999999999999
+	},
+	"548313221": {
+		"price": "1",
+		"id": 548313221,
+		"name": "Вадим",
+		"photo": "https://sun7-8.userapi.com/s/v1/ig2/xnm_FCIYl9hW96ee48J5hI68qjtiOIz71sX5yvD-MlTG3TqaaTs7N4OfRampUEL7pciyfY72ZObbPjqjkSFsOKtC.jpg?size=100x0&quality=96&crop=0,0,749,749&ava=1",
+		"have": 160.94389997803907
+	},
+	"548493193": {
+		"price": 99,
+		"id": 548493193,
+		"name": "Михаил",
+		"photo": "https://sun1-22.userapi.com/s/v1/if1/vlo0yQW07gHjqkjBos1guAYsH-zXJDd5Biee4faPiObKnvA8V2cs4HKYs9GHHeHzaFWfN7sA.jpg?size=100x0&quality=96&crop=23,344,233,233&ava=1",
+		"have": 0
+	},
+	"549147078": {
+		"price": 99,
+		"id": 549147078,
+		"name": "Даша",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/ovE3IlfoitVnUzhSDRPy2GgysVds-Kmd8ToSc68crsQMuEoixCnClNtZaPvPOOUK1eXXHtpTFQxgzZ84L2C5pHQZ.jpg?size=100x0&quality=96&crop=0,381,1062,1062&ava=1",
+		"have": 0
+	},
+	"549549377": {
+		"price": 99,
+		"id": 549549377,
+		"name": "Zheka",
+		"photo": "https://sun1-89.userapi.com/s/v1/ig2/eHnFpCE05fMGmyThev7JxxCg8itu7zDSYo-9cntfoc0_Cq5x6Dj4eA4RyvSIJ-Jzh6uFzBvUEXlgimnxtAffNfMY.jpg?size=100x0&quality=96&crop=746,84,1224,1224&ava=1",
+		"have": 158.9799000000067
+	},
+	"551589812": {
+		"price": 99,
+		"id": 551589812,
+		"name": "Максим",
+		"photo": "https://sun2-10.userapi.com/s/v1/ig2/K0K6IQ1szMUuU9hbA4p3EewcX-Pjh04d16EnLLfdIFCFGDRmyui0W1mFO6_x4HX28V4ReVcGmmxlz6NBAQP07cqx.jpg?size=100x0&quality=96&crop=5,0,620,620&ava=1",
+		"have": 0
+	},
+	"553703180": {
+		"price": 99,
+		"id": 553703180,
+		"name": "Матвей",
+		"photo": "https://sun1-30.userapi.com/s/v1/ig2/7sBfmA6BNRdXEM_b4WYz2xUMCDe-avRkluuDruR_PQ-eyyVSbsEiLCpwJXtMmTsxkfRqZkZ0CLgrWve7Aqs59IID.jpg?size=100x0&quality=96&crop=137,101,806,806&ava=1",
+		"have": 0.0038999999999999972
+	},
+	"554173387": {
+		"price": 99,
+		"id": 554173387,
+		"name": "Кирилл",
+		"photo": "https://sun1.48276.userapi.com/s/v1/ig2/JrspfO8vo1HkoNAqcSu6ez_sGQ3dK19M_NlqZ70YbuWi5TXaVq2R06cHumYpi74YjP1xh8LXhYG05Gojauo1e7Jb.jpg?size=100x0&quality=96&crop=0,0,200,200&ava=1",
+		"have": 0
+	},
+	"554454674": {
+		"price": "5",
+		"id": 554454674,
+		"name": "Никита",
+		"photo": "https://sun1-87.userapi.com/s/v1/ig2/UsqyAzCcfhlXVlmMIfeOSNcGraFhGtlvlEKyhM0UQXMRXpw21UZGbJ_zu5s56XzJCG0MiQCf4SNFo8zFjdItxX9w.jpg?size=100x0&quality=96&crop=0,0,639,639&ava=1",
+		"have": 1004260.9074002269
+	},
+	"555272362": {
+		"price": 99,
+		"id": 555272362,
+		"name": "Никита",
+		"photo": "https://sun7-7.userapi.com/s/v1/ig2/CUNpng02r7GJ3pi54zcBk-Hwt_Tz2XcMkVVZMDUoy8IQF1tnenffdfjL_ELdAifmgDspwSUQzpECyIHxeRoxcwzz.jpg?size=100x0&quality=96&crop=0,0,1065,1065&ava=1",
+		"have": 609.7005000001604
+	},
+	"555686928": {
+		"price": 99,
+		"id": 555686928,
+		"name": "Виктор",
+		"photo": "https://sun1-17.userapi.com/s/v1/ig2/8k68yxzB2A2fFXn_CxIJ8sV9uZzfqlxxkvB2sfvLwyUCko_hOaGnB7tXmBXwpctoCb3mKB5VeFJmD65lWJG-mSct.jpg?size=100x0&quality=96&crop=5,529,1615,1615&ava=1",
+		"have": 0.0013000000000000004
+	},
+	"557689654": {
+		"price": 99,
+		"id": 557689654,
+		"name": "Роман",
+		"photo": "https://sun1-30.userapi.com/s/v1/ig2/ylWjpjNA9xCbteLT21WywUg_vpaEc2n-v_qa5aKpsAknqH78nxl1n49I3GZYtxUyfmKP63SFIpbHboexc-17qqyT.jpg?size=100x0&quality=96&crop=88,88,708,708&ava=1",
+		"have": 0.019899999999999935
+	},
+	"558114721": {
+		"price": 99,
+		"id": 558114721,
+		"name": "Maksim",
+		"photo": "https://sun1-85.userapi.com/s/v1/ig2/wXEFoYFPPR7hIFxaFA5Tg6fA0hkR8LdiA4cPFlf05IyYXg-piRc28RWbCU8Y9Uq9pTIDOdY_1mHwKnxCblQDjIoO.jpg?size=100x0&quality=96&crop=0,0,485,485&ava=1",
+		"have": 12060.574000000684
+	},
+	"558194196": {
+		"price": 99,
+		"id": 558194196,
+		"name": "Володя",
+		"photo": "https://sun1-21.userapi.com/c850528/v850528577/19b1c4/11peQobjK4U.jpg",
+		"have": 0
+	},
+	"558630222": {
+		"price": 99,
+		"id": 558630222,
+		"name": "Илья",
+		"photo": "https://sun1-14.userapi.com/s/v1/ig2/aMsDuOCuACJCQGZ5bq23xWkkUUxplt3pI_DiWZhHJxUmRBUUkRRYcGs2pkHR1qvjPNXk2W9_a2t8BQbCymnLhhwc.jpg?size=100x0&quality=96&crop=0,40,828,828&ava=1",
+		"have": 0.014299999999999969
+	},
+	"561529880": {
+		"price": 99,
+		"id": 561529880,
+		"name": "Эко",
+		"photo": "https://sun4-17.userapi.com/s/v1/ig2/kCYxGHisQ_n8mjQYw2sH5ONd5zxArUyF_hMZgHY1PIsI8AirAFRv3Sa79p0nmYgNE0i3A_6bqHwYd3UC0cGwjWDU.jpg?size=100x0&quality=96&crop=0,0,718,718&ava=1",
+		"have": 0
+	},
+	"561837115": {
+		"price": 99,
+		"id": 561837115,
+		"name": "Матвей",
+		"photo": "https://sun6-21.userapi.com/s/v1/ig2/2Bf8sHCWRb3lovas79kqGbRjvmyI59CHqdTthOHFjU1oiigCaPTL7YC4Vi_VrJln-Rlyp48OOlYfAF11YSEktDJh.jpg?size=100x0&quality=96&crop=9,1,700,700&ava=1",
+		"have": 1596.0144999999968
+	},
+	"562963672": {
+		"price": 99,
+		"id": 562963672,
+		"name": "Вадим",
+		"photo": "https://sun7-6.userapi.com/s/v1/ig2/MWmGGyVK4QsM7epE3jNF50sQwHEJ5pO1uYFEIBjPTGmGdjpz2_a9S1MDTrhJgOrRftryDQhxEcl6FYG2zdee5eSN.jpg?size=100x0&quality=96&crop=64,64,512,512&ava=1",
+		"have": 0
+	},
+	"562984264": {
+		"price": 99,
+		"id": 562984264,
+		"name": "Artem",
+		"photo": "https://sun1.dataix-by-minsk.userapi.com/s/v1/ig2/eo7MMEYTTq7_AdcQmeiilBhth6BLt3HtCpQVQGycXF3RV1-4w96GFv-CWNcZ97V3hgelr_LyzUpG1GB0Fd_pZl3s.jpg?size=100x0&quality=96&crop=0,0,830,830&ava=1",
+		"have": 0.0012999999999999824
+	},
+	"564033229": {
+		"price": 99,
+		"id": 564033229,
+		"name": "Артем",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig2/vJUdzgj33wddcRNDjUWRJmA1Vzl6oLFUiVX6FpfklJs5K7_bKdv_nMdS1vCIh26HScAwl-e-Qt-L4wAAl_7L5hlo.jpg?size=100x0&quality=96&crop=3,1,729,729&ava=1",
+		"have": 0
+	},
+	"564066374": {
+		"price": 99,
+		"id": 564066374,
+		"name": "Dasha",
+		"photo": "https://sun4-12.userapi.com/s/v1/ig2/Vqo3klOMF40lM6v1WTvLWYjRtWl6D3NOTH4Pc90Z8CCcW27bP90lLvAh_WMbon_W_UtB6v0jqpkyxvJioLHv6INz.jpg?size=100x0&quality=96&crop=1,276,1608,1608&ava=1",
+		"have": 0.0608000000000001
+	},
+	"564861241": {
+		"price": 99,
+		"id": 564861241,
+		"name": "Дмитрий",
+		"photo": "https://sun2-3.userapi.com/s/v1/ig2/p95n0jPLA9Yq_DHcd-wQQKtCeUQ2ycRI2sc1MBpnvUOxoXkqIBHjCGBHvN5dNNOTjXLNtm-dnNIf9KfiKamm4b-y.jpg?size=100x0&quality=96&crop=1,39,711,711&ava=1",
+		"have": 0.1150000000000003
+	},
+	"565499836": {
+		"price": 99,
+		"id": 565499836,
+		"name": "Вова",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/hND7HvxR7x7h1H3cDOOS5xFItrX4V4Mx80XQP26Sp6Pg8-PtG0VNR0Sr9QRaZ5tAvk6BeDjcMdEc-x25vO9GRs22.jpg?size=100x0&quality=96&crop=25,0,1047,1047&ava=1",
+		"have": 93294.75250000009
+	},
+	"566793757": {
+		"price": "33",
+		"id": 566793757,
+		"name": "Мегатрон",
+		"photo": "https://sun1-19.userapi.com/s/v1/ig2/BLYpv0b40b4xeXJN4_8KWu8RybzgOs0a_wEtv4CAdvWasCafCuCBfBaO_FNkfAZCMdzcuAjGvN049_L0bTjplDNL.jpg?size=100x0&quality=96&crop=45,0,340,340&ava=1",
+		"have": 0
+	},
+	"567540057": {
+		"price": 99,
+		"id": 567540057,
+		"name": "Zhasik",
+		"photo": "https://sun2.dataix-kz-akkol.userapi.com/s/v1/ig2/-Yw22-Q8a7Pe6BGpd0-iUmc7AkrddRSeMaG2UpkpGu7hj3J91Xt0FpMBTwMpwPy_K-5LQ0qZERPjIQjlSUdUD1sX.jpg?size=100x0&quality=96&crop=9,0,706,706&ava=1",
+		"have": 671.318899999997
+	},
+	"569148331": {
+		"price": 99,
+		"id": 569148331,
+		"name": "Максим",
+		"photo": "https://sun2.megafon-nn.userapi.com/s/v1/ig2/inkX-C4J6c3835-_ByfFGide7NADyX-i4mMO_Xva-nqrVfraANMwY7ES49SniFg3EzPhGpRdDolaNdt_6xM9-2aQ.jpg?size=100x0&quality=96&crop=0,0,999,999&ava=1",
+		"have": 0
+	},
+	"569288717": {
+		"price": 99,
+		"id": 569288717,
+		"name": "Евгений",
+		"photo": "https://sun4-17.userapi.com/s/v1/ig2/6lOZ2F5DWw5INDzEFnjnT_qAexln4Yty-f4q8EdvOCOJXK00-IPI4zoKE8SP7vYnIqssdaIMuveV-HNTGulHSogZ.jpg?size=100x0&quality=96&crop=0,113,853,853&ava=1",
+		"have": 0.0059000000000000025
+	},
+	"569535136": {
+		"price": 99,
+		"id": 569535136,
+		"name": "Дима",
+		"photo": "https://sun1-88.userapi.com/s/v1/ig2/d8d49nn2xuFsV8gKSpdyqgnr_p9IadzFqPbFQf5fDN0g5BcYMhUBfu5VycTpllXNRpsCZH4dHcXk9eGQSfkzw8Kt.jpg?size=100x0&quality=96&crop=2,0,1077,1077&ava=1",
+		"have": 0.02800000000000006
+	},
+	"572012913": {
+		"price": 99,
+		"id": 572012913,
+		"name": "Екатерина",
+		"photo": "https://sun1-84.userapi.com/s/v1/ig2/OvCwB8yGpIq82ZP_w0aJMO8u1TmMONnpS1zKYblh9b0WV4UVcpwBTRkMF4DPf35Su0d4l9d-Rvb30kgvO2JFmLdl.jpg?size=100x0&quality=96&crop=307,1,718,718&ava=1",
+		"have": 0.15090000000000225
+	},
+	"572531359": {
+		"price": 99,
+		"id": 572531359,
+		"name": "Милана",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/s-twZgE7O0PcstEJ3dNQRNxnr3atZ0QpZSHGC4qCWkcqAQfs5vE0dAnUy1Hcp5EzOGH3qXl4oe6ETuUILaDA_B7n.jpg?size=100x0&quality=96&crop=2,2,2154,2154&ava=1",
+		"have": 0.0023
+	},
+	"572633176": {
+		"price": "1",
+		"id": 572633176,
+		"name": "Олег",
+		"photo": "https://sun3-10.userapi.com/s/v1/ig2/5kv1UCw8x4J9TOuzWaoGFu-rXmRfiqyD8o5LDGBO1r-MKStIN_hUWehulqj-dPprCX9JyDd-dk9-KAO6SmY3iz_i.jpg?size=100x0&quality=96&crop=411,1,777,777&ava=1",
+		"have": 23187.657700000396
+	},
+	"573944758": {
+		"price": 99,
+		"id": 573944758,
+		"name": "Евгений",
+		"photo": "https://sun1.tele2-nn.userapi.com/s/v1/ig2/GvI7AM_ckom05Z4SSpnbWUkq8RPAJB2sHxlMkdM1VLGNob7jsZX1dxoF6ug_gJhz9N9cbN3mxtJS5hc-HFhO0Xo8.jpg?size=100x0&quality=96&crop=65,176,288,288&ava=1",
+		"have": 179.50230000000198
+	},
+	"574904092": {
+		"price": 99,
+		"id": 574904092,
+		"name": "Макс",
+		"photo": "https://sun1-47.userapi.com/s/v1/ig2/8gjMQuDeUCW000tqNi18NKDY6o2Mt_0p5Ot96uuUD1eOgz6y65eUwE777Mx8L-ZUMnsrSY860OogHBp4-kVO3opb.jpg?size=100x0&quality=96&crop=178,0,713,713&ava=1",
+		"have": 1051.120199999999
+	},
+	"577043580": {
+		"price": 99,
+		"id": 577043580,
+		"name": "Петя",
+		"photo": "https://sun9-26.userapi.com/s/v1/ig1/UcckqzEiLAnOUIps9JK_hsmf3ob3wQqLWRSv5kp2vDdN7JRC8ZzUbEtJS57mE4Vwzgd2XAQq.jpg?size=100x0&quality=96&crop=132,0,337,337&ava=1",
+		"have": 405330.5974002881
+	},
+	"578253923": {
+		"price": "1",
+		"id": 578253923,
+		"name": "Лёха",
+		"photo": "https://sun1-23.userapi.com/s/v1/ig2/mYSBy9kAFEsBZeHvmvusF0ua8F3eetnyQUobNkLiFuIzrNrN-Xfq_tA8bpOsOibCFxIdIOndaXUiateWoxvWnkyV.jpg?size=100x0&quality=96&crop=2,2,2153,2153&ava=1",
+		"have": 592.6977000000016
+	},
+	"578762613": {
+		"price": 99,
+		"id": 578762613,
+		"name": "Сергей",
+		"photo": "https://sun3-10.userapi.com/s/v1/ig2/w5hkArqEIGMmPXGcMGVjVzyy0FvE_alxADWNcy-qNPcDVJiY1VJvJchPND5B3et7NEFyNz5FyyM9F3uxBHrTixIx.jpg?size=100x0&quality=96&crop=1,1,1077,1077&ava=1",
+		"have": 0
+	},
+	"578800515": {
+		"price": 99,
+		"id": 578800515,
+		"name": "Сергей",
+		"photo": "https://sun7-9.userapi.com/s/v1/ig2/N_-W0V4vFTGfhxsTbVje9YBtiDhnB26lv3kSTkggLnl3adxElQrzrikIfV9j6TU3Ux7x2i1KXwGQ1MOI0QZgy0M8.jpg?size=100x0&quality=96&crop=60,109,853,853&ava=1",
+		"have": 0.002799999999999999
+	},
+	"580042771": {
+		"price": 99,
+		"id": 580042771,
+		"name": "Александр&#39;абубандит",
+		"photo": "https://sun7-9.userapi.com/s/v1/ig1/eQhpRy2_VaaCwL408BJQZOI-1vzPfIArou_iomIfRFGoCXHwdXpldC1OS6lL_BIuOiKVdXWs.jpg?size=100x0&quality=96&crop=102,667,819,819&ava=1",
+		"have": 1574.0984999999978
+	},
+	"580196051": {
+		"price": 99,
+		"id": 580196051,
+		"name": "Ivan",
+		"photo": "https://sun2.tele2-kz-astana.userapi.com/s/v1/ig2/TX-1p6A0s4o3EJkWjna6FldZ8FxO9uCBx1uifnKkOGmVT39IXro0NvwBDPTOzBlJOlXcozRp5eo64-3akCdrRvH6.jpg?size=100x0&quality=96&crop=29,29,841,841&ava=1",
+		"have": 184.4427000000002
+	},
+	"581133222": {
+		"price": "1",
+		"id": 581133222,
+		"name": "Данил",
+		"photo": "https://sun4-11.userapi.com/s/v1/ig2/QmXVmLT-Esh3Ny9cA17UB3XEeZYFnJDkqPJgkSPPpgW2HolKvsdJ9fyUvelhkkDTQTreLp8G6ETsiYxYqmDM08NW.jpg?size=100x0&quality=96&crop=1,267,1615,1615&ava=1",
+		"have": 2404.9179000000186
+	},
+	"581576974": {
+		"price": "949919494949499495",
+		"id": 581576974,
+		"name": "Мани",
+		"photo": "https://sun4-17.userapi.com/s/v1/ig2/DfzxNp2xTnhTbJw-tE7Lmqvu2YSXMef_HarzUlRSY5VWtFXaMfXzzWo2YNf_6Qv1OVOePJR5h5y7hSHYe66G9T6w.jpg?size=200x0&quality=96&crop=1,46,539,539&ava=1",
+		"have": 0.22130000000000027
+	},
+	"582754075": {
+		"price": 99,
+		"id": 582754075,
+		"name": "Георгий",
+		"photo": "https://sun1-17.userapi.com/s/v1/ig2/ebQxiUoJe0ecPwzduehvJmtnZz-8K_1kKwUHqEcb5wiwcCRCrsx5infKcZ14gIsAIJ1fQN6z-kVN5vmVUvLzpDSj.jpg?size=100x0&quality=96&crop=4,4,803,803&ava=1",
+		"have": 0.0012000000000000003
+	},
+	"583754057": {
+		"price": 99,
+		"id": 583754057,
+		"name": "Миша",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/jKRr-f4Zxg9-kM-t9bY2BeS3pHlSNa8kZXafI8PQU1IDqPETFRTnVqe9juZAV9P1QqJcHEs2CsCil0jSfYdhmMZO.jpg?size=100x0&quality=96&crop=5,5,887,887&ava=1",
+		"have": 131.2973000000002
+	},
+	"584133278": {
+		"price": 99,
+		"id": 584133278,
+		"name": "Mlega",
+		"photo": "https://sun1-21.userapi.com/s/v1/ig2/DhwEHiHfMS620ZwD5vHipXlvdXNkFa9HNJ3688nma-XDmd9kAWvvs3UnwOD_H5DDZi2hWsAOGdVLfHqTw-9fW27g.jpg?size=100x0&quality=96&crop=7,7,1272,1272&ava=1",
+		"have": 1620.894399999999
+	},
+	"585007650": {
+		"price": "10",
+		"id": 585007650,
+		"name": "Лиза",
+		"photo": "https://sun2.43222.userapi.com/s/v1/ig2/J_PrYMj7nRtTC7MS5rdLSekELJhookHdeDQ5YCbDaiUYaMnyeIInBA6uICg2oSvNN9hkUqlXRxNviJme1ZigP1ob.jpg?size=100x0&quality=96&crop=0,0,450,450&ava=1",
+		"have": 3864.196898397806
+	},
+	"585919101": {
+		"price": 99,
+		"id": 585919101,
+		"name": "Ке",
+		"photo": "https://sun1-99.userapi.com/s/v1/ig2/nKyXryGnacQOQgBbTt1SGxboD-NHOPrmTpAQkaRGu_qFX9PFIn2ZdsHlqas_Ti7XBNQNJJ2h5e0TIzQ_QqWp7QlF.jpg?size=100x0&quality=96&crop=7,1,1009,1009&ava=1",
+		"have": 200.61170000000084
+	},
+	"586575196": {
+		"price": 99,
+		"id": 586575196,
+		"name": "Данил",
+		"photo": "https://sun7-7.userapi.com/s/v1/ig1/dcsgJwFmUcDeDel6iwnw8y6O3VoM7xOR7CZhE796mGQ5vGR7gooUxtSBrHRUFa2AIaF1fGIx.jpg?size=100x0&quality=96&crop=0,53,212,212&ava=1",
+		"have": 0.029799999999999875
+	},
+	"586773340": {
+		"price": 99,
+		"id": 586773340,
+		"name": "Дима",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/dV7tpf7Eu7fh_24tVhFwbZHrALsFSFbxV6Oyo_lfuf-eNZUqMcWdxWLha4kBR7gAuUZr-FwcnfJnxFRulOucTY-p.jpg?size=100x0&quality=96&crop=4,2,597,597&ava=1",
+		"have": 0.1260000000000002
+	},
+	"586862749": {
+		"price": "0.5",
+		"id": 586862749,
+		"name": "Батя",
+		"photo": "https://sun9-25.userapi.com/s/v1/ig2/0bMtN2FF-IQ1CF-WBL4bflWbkwztXZJE8QVACNa5BD2kVQCl5KAeUt70KR6liTEIwTol4UdLebs5wQuMfEZmL3V-.jpg?size=100x0&quality=96&crop=0,114,399,399&ava=1",
+		"have": 24659.063499999284
+	},
+	"587019338": {
+		"price": 99,
+		"id": 587019338,
+		"name": "Шохрух",
+		"photo": "https://sun1-27.userapi.com/s/v1/ig2/Yx8j6QfN776plbdwc6utSVlmrY_70IohMxSnB7Ver-AmSlSmEnxODbFqz5TQxf1PZvORRsly6nbMrGIuj_WtlbC6.jpg?size=100x0&quality=96&crop=177,221,842,842&ava=1",
+		"have": 884.2660000000085
+	},
+	"587810872": {
+		"price": 99,
+		"id": 587810872,
+		"name": "Абдуллах",
+		"photo": "https://sun6-21.userapi.com/s/v1/ig2/WzquI0h4nwO2mM8UQG03TC9Xe_l3hO8JPawl7DHCWA-CBLA62iHR7r23_2M14AVNVafxlVak7JdQSN5CJfYxbA38.jpg?size=100x0&quality=96&crop=1,16,1047,1047&ava=1",
+		"have": 90.25969999964047
+	},
+	"587856168": {
+		"price": "100",
+		"id": 587856168,
+		"name": "Даня",
+		"photo": "https://sun5-3.userapi.com/s/v1/ig2/18mYfd5VOCOqYyqwOpct5m1IZZ2WERhhcFz8XldH6lbUlT-2idRGNz23wvSANAfQsUbYKCDwRzXmDA0i01MO7FGj.jpg?size=100x0&quality=96&crop=0,0,599,599&ava=1",
+		"have": 2.0036
+	},
+	"587919434": {
+		"price": 99,
+		"id": 587919434,
+		"name": "Михаил",
+		"photo": "https://sun1-93.userapi.com/s/v1/ig2/I5N045Xnq5hPBmQ6fSYGJd41LZIxgQi9CO894VN7ssWgbTL89UqfhKYhKNYdkAOxmo20f8QiA7an-y9DRSKuQpHg.jpg?size=100x0&quality=96&crop=163,0,414,414&ava=1",
+		"have": 8.023599999999973
+	},
+	"588340236": {
+		"price": "1",
+		"id": 588340236,
+		"name": "Андрей",
+		"photo": "https://sun1-86.userapi.com/s/v1/ig2/bgxwUnRbHpZ8anS443aydbgXTZTL_NkzTdGAuYY48MUqnvIHQQS6mRpsdafoRDYFfemhmIToMEh4lGr7nvQmlUu_.jpg?size=100x0&quality=96&crop=2,16,1064,1064&ava=1",
+		"have": 0
+	},
+	"588673853": {
+		"price": 99,
+		"id": 588673853,
+		"name": "Влад",
+		"photo": "https://sun2.velcom-by-minsk.userapi.com/s/v1/ig2/jfaTFHDfFXX5DJLG76TS8zZejEufL0ZYME4ZvnZRqfUbr4k7e0Ew_RYq_hquD2N-4p-mddD-MitJAGlOAEueKgLS.jpg?size=100x0&quality=96&crop=0,0,399,399&ava=1",
+		"have": 0.0009000000000000002
+	},
+	"588752149": {
+		"price": 99,
+		"id": 588752149,
+		"name": "Максим",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig1/7gpadMhkqx-mlvL_-fGbmUtBKIRbiSG8KRe8tOS0YeYRsuQzyN8AcRyA1iflTiYXpOBNwwiW.jpg?size=100x0&quality=96&crop=0,29,1079,1079&ava=1",
+		"have": 7948.488200000379
+	},
+	"588884773": {
+		"price": 99,
+		"id": 588884773,
+		"name": "Женя",
+		"photo": "https://sun1-84.userapi.com/s/v1/ig2/S-G-7_n7yqlFAggAlgHQH6pfatJOi20D62JLyRG_FaaOzGUcX4RtaqF4SQEwNOd7VZyM2gAOPkwlRNPuYl6C4cSX.jpg?size=100x0&quality=96&crop=3,0,1396,1396&ava=1",
+		"have": 0.013699999999999973
+	},
+	"589061650": {
+		"price": 99,
+		"id": 589061650,
+		"name": "Захар",
+		"photo": "https://sun1-22.userapi.com/s/v1/ig2/d5P63DXEyJsVudir4F5jZOwwhriB5SQbNupGMlH2o9OSykINKPkEN7MybVzxito08JTY3AtULNvlEF_3BHA4astd.jpg?size=100x0&quality=96&crop=1,181,857,857&ava=1",
+		"have": 1670.7722000000272
+	},
+	"589446715": {
+		"price": 99,
+		"id": 589446715,
+		"name": "Ксенька",
+		"photo": "https://sun1-96.userapi.com/s/v1/ig2/tuPd9uWwpZtCBWvwVhLBe-Ed4R9PkZSDe4Q90VnFDmyYj5NMpYzIwnlcfiDLjDdkN3OEu4MWg19gB2sXiZ3QLkEv.jpg?size=100x0&quality=96&crop=0,127,449,449&ava=1",
+		"have": 497.0200999999965
+	},
+	"589461306": {
+		"price": 99,
+		"id": 589461306,
+		"name": "Паша",
+		"photo": "https://sun2-4.userapi.com/s/v1/ig2/jafixfr5lu6KSqOhE1OB63r8jISXNTa-PkRMa9ewR-Ym9mohZxJNVvKS4346jq6RauNHuEo5PQfdx-_0IN-lsU0S.jpg?size=100x0&quality=96&crop=1,54,606,606&ava=1",
+		"have": 0
+	},
+	"590043349": {
+		"price": 99,
+		"id": 590043349,
+		"name": "Дарья",
+		"photo": "https://sun4-17.userapi.com/s/v1/ig2/dRgS-KWN-YUd8OyVy4D_JdoA-wSJRpb7xTGhJovUpGv63NudasFoEt0hX_q-PPMW9KaJH3hUyHztn-rL_SPtxvy0.jpg?size=100x0&quality=96&crop=1,134,350,350&ava=1",
+		"have": 0.0021000000000000003
+	},
+	"590086020": {
+		"price": 99,
+		"id": 590086020,
+		"name": "Даниил",
+		"photo": "https://sun9-11.userapi.com/s/v1/if2/EgAKdzciAKHYR7dDCqTiVDHskXmOZI95q5S5BN69mF1OPFgFyiifBfvEtEvzdOz-g5Dd1s3nN-8pmEd1mwJ9s-Ee.jpg?size=100x0&quality=96&crop=254,52,459,459&ava=1",
+		"have": 125.33000000000351
+	},
+	"590452995": {
+		"price": "22222222",
+		"id": 590452995,
+		"name": "Александр",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/TQY8-Mn3mekyyd9qRymkRoedhM6uMD2iV4ThKtrqefc1t4qQednMcesGIn1NKinlPxX1XNcneJElqPxU8lcRdUTn.jpg?size=100x0&quality=96&crop=25,6,393,393&ava=1",
+		"have": 55959.01429999981
+	},
+	"590788659": {
+		"price": 99,
+		"id": 590788659,
+		"name": "Наташа",
+		"photo": "https://sun7-6.userapi.com/s/v1/ig1/bzHsyvyyVNiGeYcPc-uZVDxIoeVy9sKgo1YnSpZCj5sfv9TWngccFR0Q-3u6dqM4d3Cv2YMF.jpg?size=100x0&quality=96&crop=8,8,1659,1659&ava=1",
+		"have": 0.02889999999999988
+	},
+	"592697344": {
+		"price": 99,
+		"id": 592697344,
+		"name": "Артем",
+		"photo": "https://sun1-88.userapi.com/s/v1/ig2/plUSZy--aYqPjaAECol6-ll1m2K3hn6BY9hpGImPnZkrcElj7YNLWBazJROYbTt9Xdg-jl1-d3y_feDQzfmsP53x.jpg?size=100x0&quality=96&crop=0,139,802,802&ava=1",
+		"have": 414.76540000000114
+	},
+	"593085031": {
+		"price": 99,
+		"id": 593085031,
+		"name": "Мария",
+		"photo": "https://sun5-4.userapi.com/s/v1/ig1/vc3Kk1blOEX0S1CRSQilbmu2jjdKe-61ZK8nD1CjxBKRfTaudW5GQMBMZdVVDq4f2_tStRIx.jpg?size=100x0&quality=96&crop=2,202,1195,1195&ava=1",
+		"have": 0.02079999999999993
+	},
+	"593543229": {
+		"price": "150",
+		"id": 593543229,
+		"name": "Данил",
+		"photo": "https://sun1-99.userapi.com/s/v1/ig2/lyGVwGasMRFHxpjqxqcpLvbvucOpFEFd1HzJxqk-cCwI5u-6APfiKZb4nNlZ4pbeeXQ24Z7ex-R3IN58ef9tmb4O.jpg?size=100x0&quality=96&crop=98,2,982,982&ava=1",
+		"have": 901.7519999999943
+	},
+	"594328860": {
+		"price": 99,
+		"id": 594328860,
+		"name": "Anton",
+		"photo": "https://sun1-15.userapi.com/s/v1/ig1/pb4Sg9q4N_P5rK7eeCnrGdGaEK3y7Xg94jjThWqfoaXZSGHQTU_j7XAchaa334GCXEsmsqR5.jpg?size=100x0&quality=96&crop=19,29,200,200&ava=1",
+		"have": 0
+	},
+	"594419578": {
+		"price": 99,
+		"id": 594419578,
+		"name": "Лора",
+		"photo": "https://sun9-57.userapi.com/s/v1/ig1/HWieJdD2jlqmDL16HE6GWGAJxTYiCJIF8PsinKGHjN19TCbd-xkxjcsXFrpXdb99KpTen7xH.jpg?size=100x0&quality=96&crop=0,147,640,640&ava=1",
+		"have": 0.030199999999999873
+	},
+	"595888175": {
+		"price": 99,
+		"id": 595888175,
+		"name": "Даниил",
+		"photo": "https://sun1-95.userapi.com/s/v1/ig2/LpfbP7KiQJsSwlYsi3Ctn_NECaKqslUkt-0t__wIB5adrJ6OJTXdPOzytL4VCELPgD2v9dbkNPD89qYE4mYOzI9b.jpg?size=100x0&quality=96&crop=0,248,640,640&ava=1",
+		"have": 0.0037999999999999974
+	},
+	"596151154": {
+		"price": "1",
+		"id": 596151154,
+		"name": "Никита",
+		"photo": "https://sun1.48276.userapi.com/s/v1/ig2/__-H1GDT_qq0Pf8PlSGJLjlSuqQAGMtK7nW3_TjS6IdZdeLT9pMnLa0w1W7LQKKlFAJSSCkwDC_TGflBSQNeStmF.jpg?size=100x0&quality=96&crop=0,267,810,810&ava=1",
+		"have": 100000.05080000227
+	},
+	"596471037": {
+		"price": 99,
+		"id": 596471037,
+		"name": "Денис",
+		"photo": "https://sun2-10.userapi.com/s/v1/ig2/EnVR4aFUDHuoTi-sKWbDMpNwYcEVpK9cqf0RZF8laG1e559BhQLFz8iX4cRmJePcBz2vaDBY9VDlkKIPaVe2Mlzd.jpg?size=100x0&quality=96&crop=51,461,448,448&ava=1",
+		"have": 0
+	},
+	"596500912": {
+		"price": 99,
+		"id": 596500912,
+		"name": "Алексей",
+		"photo": "https://sun7-6.userapi.com/s/v1/ig2/zO6iNnW93NpZOB5E7BrjwsKaFOlyk1neQBnlWxP5RbvDv_NugkKd7j2xXHwyChlwiTi-JcxwYY1J0bSzOJgG3Fqp.jpg?size=100x0&quality=96&crop=62,0,304,304&ava=1",
+		"have": 384.7192999997328
+	},
+	"596563909": {
+		"price": 99,
+		"id": 596563909,
+		"name": "Сергей",
+		"photo": "https://sun4-12.userapi.com/s/v1/ig2/vRtq7_fqZf66um4T5DKcFQk8P6zoHCqHH4EhrI21UbvvWwN-7QbyZacSA2rdrxO1d_aSkT5Tv-Wa5fg7trDHcPOz.jpg?size=200x0&quality=96&crop=0,0,369,369&ava=1",
+		"have": 0
+	},
+	"596631926": {
+		"price": "3",
+		"id": 596631926,
+		"name": "Дмитрий",
+		"photo": "https://sun1-95.userapi.com/s/v1/ig2/KtECjpoodNQH29PpOqJbpwX7J4f8YG8bvmInBpjBbSp6XhwY9i5o84TOKc6AsY1n--9Dbd56J-F3bH8iHyb3R9cP.jpg?size=100x0&quality=96&crop=0,0,995,995&ava=1",
+		"have": 39964.166100000366
+	},
+	"597888433": {
+		"price": 99,
+		"id": 597888433,
+		"name": "Дима",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/LxM3wrc4O6R-LMnfZqo2e6XXeEv57kI40hx4AbcNyBR7FuwqiQ_X2xQEgbiLqdrCiijKpL-XiUXlObDYMGPOx-K3.jpg?size=100x0&quality=96&crop=10,0,619,619&ava=1",
+		"have": 0.0025999999999999994
+	},
+	"597902701": {
+		"price": 99,
+		"id": 597902701,
+		"name": "Влад",
+		"photo": "https://sun5-3.userapi.com/s/v1/ig2/HOQxeRudyZHO7bjd0rRYcuTG0MH7tUvsdALDj9WlqtPEbC9pmwgjNS7P5SIvalUae3ZJZlVgCQKaPBD1mTrSBm1L.jpg?size=100x0&quality=96&crop=62,96,1137,1137&ava=1",
+		"have": 0
+	},
+	"598244519": {
+		"price": 99,
+		"id": 598244519,
+		"name": "Егор",
+		"photo": "https://sun9-70.userapi.com/s/v1/ig2/dXM5dQE1yTenTWGiy1Vsdw1JoCUNUCGnGPopYueyFzt_NsARJGprVnlQTx75lXaqa71HNQt2vqppzPz-VoMsjh2C.jpg?size=100x0&quality=96&crop=212,431,645,645&ava=1",
+		"have": 0
+	},
+	"598337692": {
+		"price": 99,
+		"id": 598337692,
+		"name": "Андрей",
+		"photo": "https://sun1-23.userapi.com/s/v1/ig2/lU5gQrdlQndQJvvQdQTSlKaEzPLDNdh_Jqh03bA3qb628plWpfqzK8pdMnBEt_10_BRBgm5skfNd6evrLShqC3Xj.jpg?size=100x0&quality=96&crop=0,0,200,200&ava=1",
+		"have": 0.005500000000000008
+	},
+	"600128566": {
+		"price": 99,
+		"id": 600128566,
+		"name": "Денис",
+		"photo": "https://sun2-10.userapi.com/s/v1/ig2/c8iJlzemuTVh7jGdccLdHJOwErA2alZ7Q5iKEANmEqNk1hPe4E3qEWJ4jC-9weeQaYx_UReRwuL08sHOnVc9cpmR.jpg?size=100x0&quality=96&crop=1,211,776,776&ava=1",
+		"have": 0
+	},
+	"600852277": {
+		"price": 99,
+		"id": 600852277,
+		"name": "Зельбальбек",
+		"photo": "https://sun2-4.userapi.com/s/v1/ig2/y85gaCVK2wYYhuLaMPXJX08YnmmwiAQXcv_nbroI1JUjccwUM5TFXQG6JhXXgkUqlNjK-_X4k3Mty8YU15cx_Em9.jpg?size=100x0&quality=96&crop=0,113,898,898&ava=1",
+		"have": 2322.1409000000385
+	},
+	"602470337": {
+		"price": 99,
+		"id": 602470337,
+		"name": "Артем'не",
+		"photo": "https://sun3-10.userapi.com/s/v1/ig2/sIvsJYzPrI6Gp_jYO6LAzqHUXF8nHMvFmpZfIC0edd2qvgBEJd7rzr3d3XtBN0rj56YbHN9_t0PxTSZz7B2eBy5u.jpg?size=100x0&quality=96&crop=0,1069,722,722&ava=1",
+		"have": 0
+	},
+	"602739220": {
+		"price": 99,
+		"id": 602739220,
+		"name": "Alex",
+		"photo": "https://sun1-18.userapi.com/s/v1/ig1/TK8XRoADXBkVpn_0cQKX0VSNZ0Ls6CdWgUFgEXeHA5v4pCaNtPy_d1G_pHtMMPJvggRexv_K.jpg?size=100x0&quality=96&crop=0,0,318,318&ava=1",
+		"have": 38550.82379999973
+	},
+	"602898726": {
+		"price": 99,
+		"id": 602898726,
+		"name": "Даниэль",
+		"photo": "https://sun1-98.userapi.com/s/v1/ig2/lgYEYmDjIiQKWhMFLnV429UnLK6wFyHwZWVI-Uj9NqGyaUve4vNr_X0rXemfPHXMyrGVodi01Ws3PfHhhyHhrJQ-.jpg?size=100x0&quality=96&crop=0,0,1500,1500&ava=1",
+		"have": 0.015699999999999967
+	},
+	"606501398": {
+		"price": 99,
+		"id": 606501398,
+		"name": "Даниил",
+		"photo": "https://sun2-3.userapi.com/s/v1/ig2/jYkWjFI4EtPhPu9zlXDWF5uVP1IAYuQwTQnuw4QchUM9rIdirlMnXn6PGIzuXVrVBWiTvwXGYxow1MpWzjqWli5C.jpg?size=100x0&quality=96&crop=56,1,967,967&ava=1",
+		"have": "10930.030099998148100000.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00010.00012.00012.00012.00011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10012.00012.00011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10012.00012.00012.00012.00011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10011.10012.00012.00012.00012.00011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10012.00012.00012.00011.10012.00011.10012.00012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00012.00011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00012.00012.00012.00012.00011.10011.10011.10011.10011.10012.00011.10012.00012.00012.000112.00012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00012.00012.00012.00012.00012.00011.10011.10011.10011.10012.00012.00012.00012.00012.00012.00011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00011.10011.10011.10012.00012.00012.00012.00012.00012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10011.10011.10011.10012.00011.10012.00012.00012.00012.00012.00012.00011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10012.00011.10011.10011.10011.10012.00012.00012.00012.00012.00012.00011.10011.10011.10012.00011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00011.10011.10012.00012.00012.00012.00012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10012.00012.00012.00011.10011.10011.10011.10011.10012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10011234562.00012.00012.00012.00012.00012.00012.00012.00010000000000000000000000000000012.00012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10012.00012.00012.00012.00012.00011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10012.00011.10011.10012.00012.00012.00012.00012.00011.10011.10011.10012.00012.00011.10011.10011.10012.00012.00012.00012.00011.10011.10011.10012.00012.00012.000112.00012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10011.10011.10012.00012.00012.00012.00012.00011.10012.00011.10012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10011.10012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00011.10011.10012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00012.00011.10011.10011.10011.10012.00012.00012.00012.00012.00011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10011.10011.10011.10011.10011.10012.00011.10012.00012.0001"
+	},
+	"607789262": {
+		"price": 99,
+		"id": 607789262,
+		"name": "Илья",
+		"photo": "https://sun2.43222.userapi.com/s/v1/ig2/Ivkcc7PriQ9_L9MAOxZfVIX7WE1r_zKXsyWwvVhwNCzlbuVIcCFoerOFXrQKii4i00jnzmQfWdvD8wYtH6gq83NX.jpg?size=100x0&quality=96&crop=0,4,551,551&ava=1",
+		"have": 14753.483400002524
+	},
+	"608031027": {
+		"price": 99,
+		"id": 608031027,
+		"name": "Лаврентий",
+		"photo": "https://sun1.velcom-by-minsk.userapi.com/s/v1/ig2/z9eBNLqqIhWpWDK7QrYbXxCK2rb0eezN0Wdu2tB6RkPFh70YewRCvNFFfi5PvSXzZyEbkcpIcUrt0_BBCuk1tgVa.jpg?size=100x0&quality=96&crop=0,0,256,256&ava=1",
+		"have": 402.0754999999993
+	},
+	"608507213": {
+		"price": 99,
+		"id": 608507213,
+		"name": "Газинур",
+		"photo": "https://sun7-9.userapi.com/s/v1/ig2/TTopAUTghBhn6fyFF52JnSJrOd_QfzTR5ULCBsDsw2wPJtHNYAZCu5cHJzPQEY9jBmIBbghjrTRO2PSj0wOVBFy3.jpg?size=100x0&quality=96&crop=196,196,1568,1568&ava=1",
+		"have": 1510983.9708062187
+	},
+	"609411012": {
+		"price": "2",
+		"id": 609411012,
+		"name": "Александр",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 304254.8975999437
+	},
+	"609630667": {
+		"price": 99,
+		"id": 609630667,
+		"name": "Алексей",
+		"photo": "https://sun3-10.userapi.com/s/v1/ig2/WLU8FiuvNiaqsjILZuM7vyCGYrGQukQEt34DF6uRWY7aBu9LjigyroBtMAzX2Vl0ARYvbizvKFgpM8Je2TapNjht.jpg?size=100x0&quality=96&crop=140,0,359,359&ava=1",
+		"have": 1764.4682000058508
+	},
+	"609908433": {
+		"price": 99,
+		"id": 609908433,
+		"name": "Ардагуль",
+		"photo": "https://sun2.dataix-kz-akkol.userapi.com/s/v1/ig2/HqMcb-F7a880yo61luwB3cGZ03_GSFZ6-erJ9301-vzk09ctmxOq-ACl04yyPkJUHtJrjWuwinNdj0HXILkTt5ZI.jpg?size=100x0&quality=96&crop=0,0,960,960&ava=1",
+		"have": 0.007600000000000007
+	},
+	"610273250": {
+		"price": 99,
+		"id": 610273250,
+		"name": "Дмитрий",
+		"photo": "https://sun1-14.userapi.com/s/v1/ig2/lw-NvQf_TiZ8Bt5DtTrwse7xsIqNVLDA1ex45RXp0Cz2JNM8Dxy9Kxb7XGDWyCdcjEyO3Xm1vnnHu2EZBK47CRTO.jpg?size=100x0&quality=96&crop=8,8,1894,1894&ava=1",
+		"have": 0.002799999999999999
+	},
+	"610298871": {
+		"price": 99,
+		"id": 610298871,
+		"name": "Александра",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 0
+	},
+	"610345830": {
+		"price": 99,
+		"id": 610345830,
+		"name": "Флюр",
+		"photo": "https://sun7-6.userapi.com/s/v1/ig2/UuipsVjjbXibePMJ1xCSHjY3XNrLl_kycagaOEJGyC5GgRMMTh3w5dBVwzx3UzoeJDN9fLVkxecyQ7-LNdncalUD.jpg?size=100x0&quality=96&crop=0,0,400,400&ava=1",
+		"have": 6.653700000000113
+	},
+	"611104666": {
+		"price": 99,
+		"id": 611104666,
+		"name": "Никита",
+		"photo": "https://sun1-27.userapi.com/s/v1/ig2/NEDGlN5OTVfQtcqUi4pcacotoMtCp6V3YYT9nrkX07r28nLLVN5W6mDuAOxksBdt9LdBDV4D4N4Cr1ey7kCfGF0m.jpg?size=100x0&quality=96&crop=0,49,318,318&ava=1",
+		"have": 0
+	},
+	"612267237": {
+		"price": 99,
+		"id": 612267237,
+		"name": "Игорь",
+		"photo": "https://sun1-91.userapi.com/s/v1/ig2/wZhXRudCfPRhRwkL6kJflbXXaQWu7JSNNkki9W24DRLqCGiz4TWI1P0jW7KzsRsFuXeH0tk9otHKXypu0ujEunrD.jpg?size=100x0&quality=96&crop=63,63,1793,1793&ava=1",
+		"have": 0
+	},
+	"613310602": {
+		"price": 99,
+		"id": 613310602,
+		"name": "Владимир",
+		"photo": "https://sun7-7.userapi.com/s/v1/ig2/bc4Hhc2KXS02dkNn2AZ0ByNoVXoPHh2C-iGY-qgp1aNORwb7C5FTknl1sP-UlTFm7Ly8Gy5XackfFWK9EsZAI4Os.jpg?size=100x0&quality=96&crop=118,163,200,200&ava=1",
+		"have": 0.03910000000000009
+	},
+	"613851934": {
+		"price": "1",
+		"id": 613851934,
+		"name": "Калихан",
+		"photo": "https://sun1-86.userapi.com/s/v1/ig2/iP0m6P1nIGMWagKtwZp2dCuj6BbYrKWnVB8rFuZ3-boe5GngR_v5otS94pnVrAhUKkAAhgIfUsxCAsrdokIcYTjr.jpg?size=100x0&quality=96&crop=2,4,597,597&ava=1",
+		"have": 1424.5398999999923
+	},
+	"614210082": {
+		"price": 99,
+		"id": 614210082,
+		"name": "Хуршед",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/qilEHciyfRLdi7ySfdlqIr3qby9ZDqKyjHc8A95ZpyqM44dJ-Zd_dW02cAyJt2tu0i95A1JS9CabnWj9wFqtl6zY.jpg?size=200x0&quality=96&crop=0,217,1728,1728&ava=1",
+		"have": 391.64069999999083
+	},
+	"615199802": {
+		"price": 99,
+		"id": 615199802,
+		"name": "Ilya",
+		"photo": "https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/4YPYaMmSqvKJRRxDt265oLpwjvQfFS4TFmZ8yzzHYQnynbOFDw2kX3qtMSHBXaZlZPLG959zL-ODsSHwtryZUnmh.jpg?size=100x0&quality=96&crop=40,68,508,508&ava=1",
+		"have": 0.02079999999999993
+	},
+	"615233130": {
+		"price": 99,
+		"id": 615233130,
+		"name": "Саша",
+		"photo": "https://sun1-89.userapi.com/s/v1/ig2/XmKcDJ7rCK87JClEtmv4NZ1P59qcUwFegi3wmqrFUeWrYP8Dm7OgE78tpmTgy8PQQJQhQqKIpr8XCKO7IlSCakSg.jpg?size=100x0&quality=96&crop=0,0,539,539&ava=1",
+		"have": 187.9801000000001
+	},
+	"615661134": {
+		"price": "1.5",
+		"id": 615661134,
+		"name": "Евгений",
+		"photo": "https://sun1-91.userapi.com/s/v1/ig2/_lgKWv4UciGh3syEoNe78600nCXS09V5T4OonsCfnutTOMbIrctBMMKdPhY8OcYj18fRajc-JhdeJn6Gb7R5_6C1.jpg?size=100x0&quality=96&crop=100,100,796,796&ava=1",
+		"have": 107194.03539991229
+	},
+	"615846524": {
+		"price": 99,
+		"id": 615846524,
+		"name": "Люда",
+		"photo": "https://sun2-9.userapi.com/s/v1/ig2/aADF82dVxgmltRtxyI_olUh4PFFrKdOg4YY9t-EPMMEw3Ddmi3iB9wHFOisz-e_vEqRc5JePlShGgjBoCXNR3_Si.jpg?size=100x0&quality=96&crop=41,0,960,960&ava=1",
+		"have": 0.01089999999999999
+	},
+	"616559764": {
+		"price": 99,
+		"id": 616559764,
+		"name": "Юлия",
+		"photo": "https://sun1-22.userapi.com/s/v1/ig2/v2sL10rVwEoZ-uQGPRcJTLX6pGaOBTcNS2zGhlfsCaUUuzlOvCtmaY0oiTYVSqv4O4jizBREjQXzTg0RIRTN8iCA.jpg?size=100x0&quality=96&crop=0,0,1079,1079&ava=1",
+		"have": 62.113000000000184
+	},
+	"617933295": {
+		"price": "1",
+		"id": 617933295,
+		"name": "Антон",
+		"photo": "https://sun4-16.userapi.com/s/v1/ig2/GsVbVyuaJradUoxxJkNIoYWaspqMTXtuwN3jqIIes73nb7JYIyf-sw3fRLyAyzRgo_tv8JfrMjDpX8qzinPAEmrv.jpg?size=100x0&quality=96&crop=5,5,1186,1186&ava=1",
+		"have": 103806.0142998481
+	},
+	"618440583": {
+		"price": 99,
+		"id": 618440583,
+		"name": "Bingo",
+		"photo": "https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/LQazPDVeLJVj9x1TzBY7EMpnEX2AqBY3kNBEaQoEoiKXbqnTQ2-z51IOEo1-JTiywsT3oG9T4SYGAVrlp8wKXATJ.jpg?size=100x0&quality=96&crop=269,278,914,914&ava=1",
+		"have": 0.06950000000000098
+	},
+	"619326879": {
+		"price": 99,
+		"id": 619326879,
+		"name": "Александр",
+		"photo": "https://sun2-10.userapi.com/s/v1/ig2/ixHJ3O-thgHbD73qqN89lN64Kx9cHhCgSoZr5eHN_HKpcOmQPTxMpANrnwg1dlay6yWKGLjaK0eo0BUj-6qm0HBW.jpg?size=100x0&quality=96&crop=0,135,809,809&ava=1",
+		"have": 3664.6791000000153
+	},
+	"621053206": {
+		"price": 99,
+		"id": 621053206,
+		"name": "Маргарита",
+		"photo": "https://sun2.beltelecom-by-minsk.userapi.com/s/v1/ig2/FWDljktoo_myWQErYwdQA1BQgspAK7xxTktEDk1uBpe5Q1TAjdeqnqIbZAso3C2TFb7RNcO8LGQVjutDxSl5x7zX.jpg?size=100x0&quality=96&crop=0,300,720,720&ava=1",
+		"have": 444.0024999999979
+	},
+	"621699294": {
+		"price": 99,
+		"id": 621699294,
+		"name": "Владимир",
+		"photo": "https://sun1-95.userapi.com/s/v1/ig2/_X83zgdTiIxF8UkfLwsaknDbpV-TqQXkJ6NRFetgsVDgESFPS7MHYOBxQG_uD_kfOxpdlbjLEuWFbYc9zi8DcDuQ.jpg?size=100x0&quality=96&crop=2,131,475,475&ava=1",
+		"have": 0.0010000000000000002
+	},
+	"621834090": {
+		"price": 99,
+		"id": 621834090,
+		"name": "Melissa",
+		"photo": "https://sun1-27.userapi.com/s/v1/ig2/p4w_TNV-rZ4X0N_sFDo9PHUwmS3YTginUPQ5rkOhkRHTP6yCCM58wNGc-SqEiQG2HH24ZZ4NAI-mJGQiNrVRJfZX.jpg?size=100x0&quality=96&crop=0,235,720,720&ava=1",
+		"have": 0.0031999999999999984
+	},
+	"624227819": {
+		"price": "3",
+		"id": 624227819,
+		"name": "Гкоур",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 27974.106399955403
+	},
+	"624914563": {
+		"price": 99,
+		"id": 624914563,
+		"name": "Kxifjf",
+		"photo": "https://sun6-22.userapi.com/s/v1/ig2/rli9OHC4ezDZjpRqeXjwiF_K6X0sTMsEoOwDmedtmEwQpbQBs4xsjX2GDblQnago5Nv1Y0Lj_lCifPLt69dbiq5n.jpg?size=100x0&quality=96&crop=0,0,1280,1280&ava=1",
+		"have": 188.35369999999998
+	},
+	"625306289": {
+		"price": 99,
+		"id": 625306289,
+		"name": "Александр",
+		"photo": "https://sun9-76.userapi.com/s/v1/ig1/7r2qdGxjc1Ogej7Tkf2RjjhBTiYn062Ac7oTfVNuke1PYfb7CQ3xicX9TFaMVm2KxFpO_1pZ.jpg?size=100x0&quality=96&crop=85,20,328,328&ava=1",
+		"have": 258.7215999999984
+	},
+	"627750750": {
+		"price": 99,
+		"id": 627750750,
+		"name": "Corey",
+		"photo": "https://sun1-84.userapi.com/s/v1/ig2/vt9Ln7wVvCA3Jq3u-MF6rpUVWGAkM0UAExmIotdlUnfbKDtue3rN0Rji3MHtMONb_ttAFpiYLGJYMqjdaeMi1FCq.jpg?size=100x0&quality=96&crop=0,0,1080,1080&ava=1",
+		"have": 0
+	},
+	"629710517": {
+		"price": 99,
+		"id": 629710517,
+		"name": "Даня",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 298.9421999999763
+	},
+	"631953179": {
+		"price": 99,
+		"id": 631953179,
+		"name": "Кирилл",
+		"photo": "https://sun9-51.userapi.com/s/v1/ig2/Pfsfw0-A6g8IY1TCunUF2yz9x7y9xFdxY7p8pShdLPr4n1FeykTPLP8jyFVfLaOg78AInAiHzpEB4EE9iOnJs0gp.jpg?size=100x0&quality=96&crop=423,0,757,757&ava=1",
+		"have": 0
+	},
+	"633979028": {
+		"price": 99,
+		"id": 633979028,
+		"name": "Иван",
+		"photo": "https://sun3-13.userapi.com/s/v1/ig2/PhcInPTG8WfGQ7zjd2oqrtzZebokFWlc0xc_w1cAjKUXtR40MfFcAZPfroqHouauoqEJhIecSGosx2U7tK-JI41I.jpg?size=100x0&quality=96&crop=0,204,1614,1614&ava=1",
+		"have": 0
+	},
+	"634185313": {
+		"price": 99,
+		"id": 634185313,
+		"name": "Арсений",
+		"photo": "https://sun9-64.userapi.com/s/v1/ig2/gf7MbkjZiMoIHphUrVMW3iKc2qA-4e6zwHq_xYhGaxmzmwH3CGqq9BsdzFn_CpbXMxLcE_PbtwxX1ElkU5dMVgtj.jpg?size=100x0&quality=96&crop=0,0,399,399&ava=1",
+		"have": 790.6931999999928
+	},
+	"635531401": {
+		"price": 99,
+		"id": 635531401,
+		"name": "Алик",
+		"photo": "https://sun2.tattelecom-nbc.userapi.com/s/v1/ig2/_OboORslcvqYBsUfj39-t--TSh1LkvnfIYX9kIWOU-6gXQqktR83w1_gmh9gUPb4HgLRbyyaZHJ43lpPT0NYdfzL.jpg?size=100x0&quality=96&crop=197,175,426,426&ava=1",
+		"have": 0.10850000000000208
+	},
+	"636194947": {
+		"price": 99,
+		"id": 636194947,
+		"name": "Алия",
+		"photo": "https://sun3-12.userapi.com/s/v1/ig2/-FNb0ZiwPRnJ9hAcFFeDkzokw2phuzCG-t4RIyXoLBmQHAnOgnKxWQ3WyW3tCkmDd2-x5wgwtkSEMmWSew3ZL5PD.jpg?size=100x0&quality=96&crop=0,133,814,814&ava=1",
+		"have": 0.05130000000000044
+	},
+	"636471626": {
+		"price": 99,
+		"id": 636471626,
+		"name": "Рамазан",
+		"photo": "https://sun6-21.userapi.com/s/v1/ig2/4waYhWS3-_xJgBi4MGUdk0J4RRE6v1PKycQAUSa4nLb13BL8bXfJw-29ZU5mdZZtr-REQG2GN4rjT5gpeej5IXqz.jpg?size=100x0&quality=96&crop=1,1,1077,1077&ava=1",
+		"have": 0.0032999999999999948
+	},
+	"636962383": {
+		"price": 99,
+		"id": 636962383,
+		"name": "Миша",
+		"photo": "https://sun4-11.userapi.com/s/v1/ig2/rcHrN7sd0Snie7-M3xK2yQ--H6OgCojHl4vKLtmwWWLNbJzeaWWj0eo_x7ccYMiPjznXMOLAQuObV9qj7CPKgTF8.jpg?size=100x0&quality=96&crop=404,1,795,795&ava=1",
+		"have": 0
+	},
+	"637531846": {
+		"price": 99,
+		"id": 637531846,
+		"name": "Лера",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 0.006100000000000003
+	},
+	"638341983": {
+		"price": "200",
+		"id": 638341983,
+		"name": "Владимир",
+		"photo": "https://sun4-17.userapi.com/s/v1/ig2/13v6WQ0Glk3JJ-GDvHmZTwsRn2FbU6DYLsmKebr3u8YzETB2NLErDMxFpKdYvd-ctiSLQDME4bB_DVT23naB1MIJ.jpg?size=100x0&quality=96&crop=0,0,1660,1660&ava=1",
+		"have": 2938.9074000002797
+	},
+	"639106835": {
+		"price": 99,
+		"id": 639106835,
+		"name": "Vlad",
+		"photo": "https://sun9-9.userapi.com/s/v1/ig2/ePYobeuqjDzsAPsQGRdgXKZ6eMmWHIkKA6q98TnBw3S2j5lgRK1nVkJOqnq-g5lzmTpF-ppDBsfG09h9F2CbQM9-.jpg?size=100x0&quality=96&crop=1,54,719,719&ava=1",
+		"have": 823.0123999999965
+	},
+	"639481588": {
+		"price": 99,
+		"id": 639481588,
+		"name": "Emerald",
+		"photo": "https://sun9-49.userapi.com/s/v1/ig2/jkzd1W9arnm6A8ghl7WZbgnit_MrrvwQh35598tQThwtYlPTnuyGl4g_8UvZr9Clf13XnM6B0J0lsEFoFk7BjNKg.jpg?size=100x0&quality=96&crop=0,0,1500,1500&ava=1",
+		"have": 644.7916000000104
+	},
+	"639848960": {
+		"price": 99,
+		"id": 639848960,
+		"name": "Андрей",
+		"photo": "https://sun1-14.userapi.com/s/v1/ig2/8SyGUK4GnB8daQIfJG-b4xAZKRrUnBdBYSCHMwQpI6wL2Ggn8ajczdR_KGyZ_JiKiWZkzRb6x7IiH2aOmwzt02gO.jpg?size=100x0&quality=96&crop=0,0,719,719&ava=1",
+		"have": 0.0008000000000000001
+	},
+	"640459787": {
+		"price": 99,
+		"id": 640459787,
+		"name": "Даша'папер",
+		"photo": "https://sun1.dataix-kz-akkol.userapi.com/s/v1/ig2/SkzeK4FKP-H_y83jzbdDwmVKO-_tYDg-OCswPf08VZm_oqzbAiibHI71QRhHfzxVcSA78Oz4jeLG4wskmIVwzh4z.jpg?size=100x0&quality=96&crop=262,0,675,675&ava=1",
+		"have": 0
+	},
+	"640922976": {
+		"price": 99,
+		"id": 640922976,
+		"name": "Орест",
+		"photo": "https://vk.com/images/camera_100.png",
+		"have": 2147.672800000005
+	},
+	"641453369": {
+		"price": 99,
+		"id": 641453369,
+		"name": "Антон",
+		"photo": "https://sun9-73.userapi.com/s/v1/ig2/9htaOqR4xu-AkzIMm8ZnJ-YIGIz7tYrf3PWtatj2aZZ33UVcTrdo9-2MnpOymuTBc3QUlreZz8vfv4ASwD5n0Wwi.jpg?size=100x0&quality=96&crop=1,0,681,681&ava=1",
+		"have": 380.5906999999931
+	},
+	"644235138": {
+		"price": 99,
+		"id": 644235138,
+		"name": "Твой",
+		"photo": "https://sun1-18.userapi.com/s/v1/ig2/raqLxpahxEUXdy0xY1OItrnd-9AU4pfL5w6-WJRsn1aqlkBdnOywv4Rro6SCezCJXBiu0vxL8T6Fw_KNNswlF0KC.jpg?size=100x0&quality=96&crop=112,0,318,318&ava=1",
+		"have": 112.53120000000052
+	}
+}
