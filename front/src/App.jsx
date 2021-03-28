@@ -284,7 +284,7 @@ class App extends React.Component {
 
     componentDidMount() {
 
-                this.getUSD()
+                // this.getUSD()
 
     if (parsedHash.ref) {
         setTimeout(() => {
@@ -1027,8 +1027,9 @@ this.setState({ref_count: response.response[0].ref_count, ref_name: response.res
         })
     }
 
- getUSD = () => {
+  getUSD = () => {
         fetch(`https://api.cryptonator.com/api/ticker/usd-rub`, {
+            // mode: 'no-cors',
             method: 'get',
             headers: {
                 "Content-type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -1037,7 +1038,7 @@ this.setState({ref_count: response.response[0].ref_count, ref_name: response.res
             .then((response) => response.json())
             .then((response) => {
 
-                this.setState({ price: response.ticker.price }) // ахуетб курс под 70
+                this.setState({ price: response.ticker.price }) 
 
             })
     }
